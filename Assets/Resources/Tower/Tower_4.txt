@@ -1,0 +1,19 @@
+{
+	"towerName":"Frozen Tower",
+
+	"towerId":4,
+
+	"price":190,
+	"sell_price":90,
+	"upgrade_price":700,
+
+	"damage":0,
+	"range":1.7,
+	"atk_speed":1.3,
+	"effect":5,
+
+	"damageIncrement":0.03,
+	"rangeIncrement":0.0073,
+	"AtkSpeedIncrement":0.028,
+	"effectIncrement":0
+}
