@@ -18,6 +18,9 @@ public class sideMenuTower : Singleton<sideMenuTower>
     [SerializeField]
     private Text description;
 
+    [SerializeField]
+    private GameObject upgradeButton;
+
     public Animator animator { get; private set; }
 
     public bool isOpen { get; private set; }
@@ -56,6 +59,15 @@ public class sideMenuTower : Singleton<sideMenuTower>
         header.setValue(tower, config);
         Stats_field.set_value(tower);
         upgrade_field.set_value(tower);
+
+        if (GameManager.Instance.Currency < current_tower.upgrade_price)
+        {
+            upgradeButton.GetComponent<Button>().interactable = false;
+        }
+        else
+        {
+            upgradeButton.GetComponent<Button>().interactable = true;
+        }
     }
 
     public void open_sideMenu()
@@ -119,8 +131,9 @@ public class sideMenuTower : Singleton<sideMenuTower>
         lastClickTime = Time.time;
     }
 
-    public void sell()
+    public void sell(GameObject button)
     {
+
         float timeSinceLastClick = Time.time - lastClickTime;
 
         if (timeSinceLastClick <= Double_click_interval)
@@ -133,15 +146,24 @@ public class sideMenuTower : Singleton<sideMenuTower>
             catch (Exception e)
             { 
             }
-            
+
             GameManager.Instance.Currency += (int)current_tower.sell_price;
             current_tower.current_tile.GetComponent<BoxCollider2D>().enabled = true;
             current_tower.current_tile.IsWalkable = true;
             current_tower.current_tile.TileIsEmpty = true;
             GameManager.Instance.isMapChanged = true;
             close_sideMenu();
+            button.GetComponent<Button>().interactable = false;
+
+            StartCoroutine(activateSellButton(button));
         }
 
         lastClickTime = Time.time;
+    }
+
+    IEnumerator activateSellButton(GameObject button) 
+    {
+        yield return new WaitForSeconds(0.4f);
+        button.GetComponent<Button>().interactable = true;
     }
 }

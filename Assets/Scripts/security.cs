@@ -93,5 +93,6 @@ internal class PlayerConfig_Extra : PlayerConfig
 {
     public string API_key;
     public string secret = "GB7GS7nDaZdULUZpwvV3vzUabkjUC5DggrAJm6vKnZVFh9dxgSThk5AqHcQRnxtvswWGUcu2eRSe9c2APLkBM3thnsLxQ7FzvAZezJTFeUW55ratUnnuxuJTGRSGHt7b";
+    public string time = DateTime.Now.ToString("dd/MM/yy HH:mm");
     public string ticket;
 }
