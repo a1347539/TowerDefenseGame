@@ -8,9 +8,9 @@ public static class consoleLog
 {
     public static void write(string args)
     {
-        string docPath = "Y:/";
+        string docPath = "D:/";
 
-        using (StreamWriter outputFile = File.AppendText(Path.Combine(docPath, "WriteLines.txt")))
+        using (StreamWriter outputFile = File.AppendText(Path.Combine(docPath, args)))
         {
             outputFile.WriteLine(args + "\n");
         }

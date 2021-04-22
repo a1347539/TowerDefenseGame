@@ -174,7 +174,7 @@ public class GameManager : Singleton<GameManager>
         player = ConfigLoader.Load(staticTransition.userID, staticTransition.userPass);
         NumOfCapturedEnemy = 0;
         Current_wave = 0;
-        Currency = 5000 + (int)player.trees[0][1][1];
+        Currency = 500 + (int)player.trees[0][1][1];
         Health = 100 + (int)player.trees[0][0][1];
     }
 
@@ -309,5 +309,8 @@ public class GameManager : Singleton<GameManager>
         Health = (int)player.gameConfig[3];
         capturedEnemy = player.capturedEnemy_duringSession;
     }
-
+    void OnApplicationQuit()
+    {
+        Pause_Menu.Instance.endApplication(allTower, Currency, NumOfCapturedEnemy, Current_wave, Health, capturedEnemy);
+    }
 }

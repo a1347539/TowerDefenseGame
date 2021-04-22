@@ -4,17 +4,17 @@ using UnityEngine;
 
 public static class staticTransition
 {
-    //public static string pathToLevel = "Level/Level_6";
+    public static string pathToLevel = "Level/Level_6";
 
-    public static string pathToLevel;
+    //public static string pathToLevel;
 
-    //public static string userID = "234";
+    public static string userID = "234";
 
-    //public static string userPass = "234";
+    public static string userPass = "234";
 
-    public static string userID { get; private set; }
+    //public static string userID { get; private set; }
 
-    public static string userPass { get; private set; }
+    //public static string userPass { get; private set; }
 
     public static PlayerConfig opponentConfig { get; private set; }
 

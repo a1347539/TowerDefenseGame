@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Pause_Menu : MonoBehaviour
+public class Pause_Menu : Singleton<Pause_Menu>
 {
 
     [SerializeField]
@@ -72,6 +72,18 @@ public class Pause_Menu : MonoBehaviour
         SceneManager.LoadScene("FrontPage");
     }
 
+    public void endApplication(List<Tower> towers, float Gold, float numCapturedEnemy, float Wave, float Health, Dictionary<int, int> capturedEnemy)
+    {
+        playerConfig.userMapConfig = getMapConfig(towers);
+        playerConfig.userMapPath = staticTransition.pathToLevel;
+        playerConfig.gameConfig = new float[] { Gold, numCapturedEnemy, Wave, Health };
+        playerConfig.capturedEnemy_duringSession = capturedEnemy;
+
+        ConfigSaver.save(staticTransition.userID, staticTransition.userPass, playerConfig);
+
+        SceneManager.LoadScene("FrontPage");
+    }
+
     public void endSession()
     {
         endSessionPrompt.SetActive(true);
@@ -102,6 +114,26 @@ public class Pause_Menu : MonoBehaviour
         List<float[]> tempArray = new List<float[]>();
 
         foreach (Tower tower in allTowers)
+        {
+            tempArray.Add(new float[] {tower.current_tile.GridPosition.x,
+                                       tower.current_tile.GridPosition.y,
+                                       tower.towerId,
+                                       tower.level,
+                                       tower.damage,
+                                       tower.actualRange,
+                                       tower.AtkSpeed,
+                                       tower.effect
+            });
+        }
+
+        return tempArray;
+    }
+
+    private List<float[]> getMapConfig(List<Tower> towers)
+    {
+        List<float[]> tempArray = new List<float[]>();
+
+        foreach (Tower tower in towers)
         {
             tempArray.Add(new float[] {tower.current_tile.GridPosition.x,
                                        tower.current_tile.GridPosition.y,
