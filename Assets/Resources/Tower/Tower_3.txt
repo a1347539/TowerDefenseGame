@@ -1,0 +1,19 @@
+{
+	"towerName":"Heavy Cannon Tower",
+
+	"towerId":3,
+
+	"price":190,
+	"sell_price":90,
+	"upgrade_price":700,
+
+	"damage":6,
+	"range":2,
+	"atk_speed":1.3,
+	"effect":0,
+
+	"damageIncrement":0.03,
+	"rangeIncrement":0.0073,
+	"AtkSpeedIncrement":0.028,
+	"effectIncrement":0
+}

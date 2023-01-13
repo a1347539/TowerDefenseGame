@@ -1,0 +1,10 @@
+{
+	"enemyId":0,
+
+	"speed":1,
+	"health":30,
+
+	"gold":4,
+
+	"capturedRate": 0.3,
+}

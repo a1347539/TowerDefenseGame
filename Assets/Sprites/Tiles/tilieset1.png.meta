@@ -1,0 +1,6761 @@
+fileFormatVersion: 2
+guid: 71c20df00435dae429d998cca6876433
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6595988177421477636
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_0
+  - first:
+      213: 3322778734704275161
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_1
+  - first:
+      213: 6727361636441001398
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_2
+  - first:
+      213: 2724683598350007294
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_3
+  - first:
+      213: 2114105647685198816
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_4
+  - first:
+      213: 2549884276187363539
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_5
+  - first:
+      213: 6544861129696027279
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_6
+  - first:
+      213: -3002734582949322689
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_7
+  - first:
+      213: -6132694986024518998
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_8
+  - first:
+      213: -6000366118639388582
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_9
+  - first:
+      213: -701825010163116573
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_10
+  - first:
+      213: 8759038142222359514
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_11
+  - first:
+      213: 1287963806543931597
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_12
+  - first:
+      213: -1556223390711488412
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_13
+  - first:
+      213: -8131126234196746499
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_14
+  - first:
+      213: 2613464529080432148
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_15
+  - first:
+      213: 7858462033444016839
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_16
+  - first:
+      213: 130471430323715936
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_17
+  - first:
+      213: 3462909356976314186
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_18
+  - first:
+      213: 1294440096207326633
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_19
+  - first:
+      213: 1488927232152795307
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_20
+  - first:
+      213: 3104268946954807042
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_21
+  - first:
+      213: -4087884210107521129
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_22
+  - first:
+      213: 2414194182495076308
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_23
+  - first:
+      213: -8550641400358521429
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_24
+  - first:
+      213: 7775537637827771480
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_25
+  - first:
+      213: 1354014217131563356
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_26
+  - first:
+      213: -7546298541602440398
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_27
+  - first:
+      213: 3193831745317858181
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_28
+  - first:
+      213: -5497233666111722335
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_29
+  - first:
+      213: 3473736442551824535
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_30
+  - first:
+      213: -1261637472042627102
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_31
+  - first:
+      213: 1720457543144848780
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_32
+  - first:
+      213: 4424740992531004887
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_33
+  - first:
+      213: -3709931741854363828
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_34
+  - first:
+      213: -8335742028626668516
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_35
+  - first:
+      213: -5400648860877545670
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_36
+  - first:
+      213: 805616502643026945
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_37
+  - first:
+      213: -3467298492890619965
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_38
+  - first:
+      213: 6880128913233500297
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_39
+  - first:
+      213: -1068352732152448539
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_40
+  - first:
+      213: -5028249632444221050
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_41
+  - first:
+      213: -1347733655970784354
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_42
+  - first:
+      213: 2605104832416881693
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_43
+  - first:
+      213: 8412404535696055990
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_44
+  - first:
+      213: -7298518623292795424
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_45
+  - first:
+      213: -4498334888534688391
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_46
+  - first:
+      213: 6588617468614993087
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_47
+  - first:
+      213: -1150736199863457472
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_48
+  - first:
+      213: 6944179518516510433
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_49
+  - first:
+      213: -9198702937799415100
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_50
+  - first:
+      213: 5491571186544550955
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_51
+  - first:
+      213: -5053930163063737313
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_52
+  - first:
+      213: 4920994911388552963
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_53
+  - first:
+      213: 344223406495399213
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_54
+  - first:
+      213: 7520779302404957177
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_55
+  - first:
+      213: 633177358162534948
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_56
+  - first:
+      213: -207751137127687910
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_57
+  - first:
+      213: 4266425970939038494
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_58
+  - first:
+      213: -5892101564789273661
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_59
+  - first:
+      213: 8506889833385016185
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_60
+  - first:
+      213: -344379887931784768
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_61
+  - first:
+      213: -8383651578792245875
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_62
+  - first:
+      213: -6808033408296733102
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_63
+  - first:
+      213: 8104398636647433907
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_64
+  - first:
+      213: 2952456836325422856
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_65
+  - first:
+      213: -4040301816666268467
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_66
+  - first:
+      213: -6529682931936923075
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_67
+  - first:
+      213: -6472703437542533232
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_68
+  - first:
+      213: 8725865930442490969
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_69
+  - first:
+      213: 8601246629652573485
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_70
+  - first:
+      213: -5457818231538799295
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_71
+  - first:
+      213: 4713780340585855214
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_72
+  - first:
+      213: -5386368507887316597
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_73
+  - first:
+      213: -8408118432508810378
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_74
+  - first:
+      213: -4342273047529262664
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_75
+  - first:
+      213: -459037321616502880
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_76
+  - first:
+      213: 7639020532991254733
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_77
+  - first:
+      213: 8785645960306217963
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_78
+  - first:
+      213: 1489159425962840073
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_79
+  - first:
+      213: -647760423938972921
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_80
+  - first:
+      213: -1490172805564674275
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_81
+  - first:
+      213: -1327223462383631266
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_82
+  - first:
+      213: 4582938532632250500
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_83
+  - first:
+      213: 537059898035157239
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_84
+  - first:
+      213: 5206259938361957435
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_85
+  - first:
+      213: -8701640149860944330
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_86
+  - first:
+      213: 2020197776502053619
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_87
+  - first:
+      213: -8472233826954046175
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_88
+  - first:
+      213: -5927973024985915582
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_89
+  - first:
+      213: 72403449747590368
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_90
+  - first:
+      213: 1396771756607841436
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_91
+  - first:
+      213: 2394365606808922718
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_92
+  - first:
+      213: -6309231818794540675
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_93
+  - first:
+      213: 4192556859204160015
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_94
+  - first:
+      213: 2907122890581751770
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_95
+  - first:
+      213: -1758432301230418959
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_96
+  - first:
+      213: 3793015477663025738
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_97
+  - first:
+      213: -2719515624045555292
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_98
+  - first:
+      213: -1765872219928051529
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_99
+  - first:
+      213: -983175242886140974
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_100
+  - first:
+      213: -230601096885176637
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_101
+  - first:
+      213: -6585572318724363122
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_102
+  - first:
+      213: 7035612187190959322
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_103
+  - first:
+      213: 1369512087270756976
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_104
+  - first:
+      213: 3106869105660888547
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_105
+  - first:
+      213: -6171989029617534711
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_106
+  - first:
+      213: 4284517693681422769
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_107
+  - first:
+      213: -3529570595881615668
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_108
+  - first:
+      213: -4882447493905083463
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_109
+  - first:
+      213: 612281254279541922
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_110
+  - first:
+      213: -2429951228570136941
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_111
+  - first:
+      213: -5132482486320381691
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_112
+  - first:
+      213: 5670513447045159736
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_113
+  - first:
+      213: 7347834431503153636
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_114
+  - first:
+      213: -4952246476185351993
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_115
+  - first:
+      213: -5402036126670328424
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_116
+  - first:
+      213: -9114052104919483034
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_117
+  - first:
+      213: -2810910106359962826
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_118
+  - first:
+      213: 7536981277039266442
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_119
+  - first:
+      213: 7658415635072671137
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_120
+  - first:
+      213: 6389985586727020661
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_121
+  - first:
+      213: -3257064474418936437
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_122
+  - first:
+      213: 6777318267188338915
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_123
+  - first:
+      213: -5121970154203087742
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_124
+  - first:
+      213: -3343195706732153490
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_125
+  - first:
+      213: 5697556315516804197
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_126
+  - first:
+      213: 5531071448991000156
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_127
+  - first:
+      213: -6982205193155850487
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_128
+  - first:
+      213: -5101068806813441791
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_129
+  - first:
+      213: -633936279614805742
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_130
+  - first:
+      213: 969985681316502795
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_131
+  - first:
+      213: -534270150947656963
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_132
+  - first:
+      213: 5424210365123043679
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_133
+  - first:
+      213: 7278378785295853422
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_134
+  - first:
+      213: 784074132008668770
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_135
+  - first:
+      213: 8455180563981800952
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_136
+  - first:
+      213: 2363404330305201993
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_137
+  - first:
+      213: 8814502036261375262
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_138
+  - first:
+      213: -3594096492216918952
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_139
+  - first:
+      213: 6338862162351139823
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_140
+  - first:
+      213: -712697796427697988
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_141
+  - first:
+      213: -3630963308705817623
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_142
+  - first:
+      213: 3109959949586083514
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_143
+  - first:
+      213: -5575029570204001334
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_144
+  - first:
+      213: 7214241161877114633
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_145
+  - first:
+      213: 5750057275069259774
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_146
+  - first:
+      213: 3739595897653924608
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_147
+  - first:
+      213: -8063554025195855318
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_148
+  - first:
+      213: -5148793100783932556
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_149
+  - first:
+      213: 1528273595084924695
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_150
+  - first:
+      213: 4828635374421221679
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_151
+  - first:
+      213: -6796305585233702703
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_152
+  - first:
+      213: 4285629065073359830
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_153
+  - first:
+      213: -2466778861748019652
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_154
+  - first:
+      213: -9117963811254828891
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_155
+  - first:
+      213: -4227186990949813575
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_156
+  - first:
+      213: -6963373450048577619
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_157
+  - first:
+      213: 1084589562703486634
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_158
+  - first:
+      213: 4862909715608202515
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_159
+  - first:
+      213: -2005018008069327725
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_160
+  - first:
+      213: 227745559380147429
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_161
+  - first:
+      213: -2342510713535575666
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_162
+  - first:
+      213: 2260641588342948804
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_163
+  - first:
+      213: -7089429402252022652
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_164
+  - first:
+      213: 5877646312864622259
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_165
+  - first:
+      213: -8044250397404523329
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_166
+  - first:
+      213: -6053273557529870162
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_167
+  - first:
+      213: -2388633260084428338
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_168
+  - first:
+      213: 143544046285143637
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_169
+  - first:
+      213: 8484958658593436975
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_170
+  - first:
+      213: 8259331613763744640
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_171
+  - first:
+      213: 3366833071160856322
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_172
+  - first:
+      213: 2134064606926256162
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_173
+  - first:
+      213: 1148834691962798947
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_174
+  - first:
+      213: 1302524066131457835
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_175
+  - first:
+      213: 6522275761451847075
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_176
+  - first:
+      213: 3141935895547532720
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_177
+  - first:
+      213: 4719225655269547547
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_178
+  - first:
+      213: -574807475392487698
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_179
+  - first:
+      213: 6093763852218691057
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_180
+  - first:
+      213: -4357543679164890343
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_181
+  - first:
+      213: 1491902418577321849
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_182
+  - first:
+      213: 7050305732112044990
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_183
+  - first:
+      213: -1567022655670223055
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_184
+  - first:
+      213: -8706521758898131159
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_185
+  - first:
+      213: 2006654546772898915
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_186
+  - first:
+      213: -8085028786024587523
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_187
+  - first:
+      213: 8368103805075102412
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_188
+  - first:
+      213: -5213946159597127149
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_189
+  - first:
+      213: 8619758073369288237
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_190
+  - first:
+      213: -230472140873265971
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_191
+  - first:
+      213: -8292463990079568839
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_192
+  - first:
+      213: -3988576960150392332
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_193
+  - first:
+      213: 5136588138814435890
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_194
+  - first:
+      213: -3951809015758647845
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_195
+  - first:
+      213: -3136374026631405642
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_196
+  - first:
+      213: 6909045951866076641
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_197
+  - first:
+      213: -823977421618677972
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_198
+  - first:
+      213: 560445795739117851
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_199
+  - first:
+      213: -5745802018691123517
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_200
+  - first:
+      213: 7317218094996484764
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_201
+  - first:
+      213: 581906415052232918
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_202
+  - first:
+      213: 5563619522906803508
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_203
+  - first:
+      213: 2609828865004975936
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_204
+  - first:
+      213: -221369469979731536
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_205
+  - first:
+      213: -3917062669772139013
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_206
+  - first:
+      213: -7078589794488135160
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_207
+  - first:
+      213: 4764264266719663113
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_208
+  - first:
+      213: 4024536527207628356
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_209
+  - first:
+      213: -1707901863182129298
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_210
+  - first:
+      213: 9107812845601926083
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_211
+  - first:
+      213: -5775214935556396556
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_212
+  - first:
+      213: -9062198269176919342
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_213
+  - first:
+      213: 5389310873718705334
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_214
+  - first:
+      213: 6793053439313767575
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_215
+  - first:
+      213: -4384994227533892204
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_216
+  - first:
+      213: 2124805362970513707
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_217
+  - first:
+      213: 3020089323868200039
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_218
+  - first:
+      213: 5450915458037496550
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_219
+  - first:
+      213: -397033659684398039
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_220
+  - first:
+      213: 6218668636662240916
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_221
+  - first:
+      213: -1398883233758700363
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_222
+  - first:
+      213: 8854330076410808175
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_223
+  - first:
+      213: 4786025525805569146
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_224
+  - first:
+      213: 6256856606251422842
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_225
+  - first:
+      213: 3755974172051799136
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_226
+  - first:
+      213: 5853595886176722750
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_227
+  - first:
+      213: 5321968697216159469
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_228
+  - first:
+      213: 8564125914504202730
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_229
+  - first:
+      213: -1051863886853386486
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_230
+  - first:
+      213: -6742359018422693569
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_231
+  - first:
+      213: -6709161506253224713
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_232
+  - first:
+      213: -5773657440384626919
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_233
+  - first:
+      213: 2215820657796393935
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_234
+  - first:
+      213: 3271134974404835641
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_235
+  - first:
+      213: -2376103678273738684
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_236
+  - first:
+      213: 7916314400828056105
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_237
+  - first:
+      213: 2311171878266166123
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_238
+  - first:
+      213: -7870276873652067849
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_239
+  - first:
+      213: 2185785944120642474
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_240
+  - first:
+      213: 3236700573407861479
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_241
+  - first:
+      213: 1346263748542325658
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_242
+  - first:
+      213: -8963268860340993657
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_243
+  - first:
+      213: -4062519911446471435
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_244
+  - first:
+      213: -8124122931779829746
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_245
+  - first:
+      213: 6833723761734319261
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_246
+  - first:
+      213: 6454647727310870905
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_247
+  - first:
+      213: -3229303859800553074
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_248
+  - first:
+      213: -1463636027695471768
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_249
+  - first:
+      213: 5284952693639809651
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_250
+  - first:
+      213: -6411592161466055720
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_251
+  - first:
+      213: -1727999029147609901
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_252
+  - first:
+      213: -4054491221243824018
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_253
+  - first:
+      213: -2830289766039259496
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_254
+  - first:
+      213: 2700304396337468368
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_255
+  - first:
+      213: -1301605142426897232
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_256
+  - first:
+      213: 6233365021181106679
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_257
+  - first:
+      213: 2529817788717633146
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_258
+  - first:
+      213: 123270129968796917
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_259
+  - first:
+      213: 4172677911263375739
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_260
+  - first:
+      213: -4787505133598857520
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_261
+  - first:
+      213: 4987367567581771871
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_262
+  - first:
+      213: -5592585211982779054
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_263
+  - first:
+      213: -6808108168081458924
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_264
+  - first:
+      213: 8774246344588466436
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_265
+  - first:
+      213: 7605697658825191877
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_266
+  - first:
+      213: -5910914427445180398
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_267
+  - first:
+      213: 1449095274112438391
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_268
+  - first:
+      213: 7515030230679160628
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_269
+  - first:
+      213: 6616088126093440630
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_270
+  - first:
+      213: 9049184243204246591
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_271
+  - first:
+      213: 1314812027541652387
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_272
+  - first:
+      213: -765542638559343841
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_273
+  - first:
+      213: -1355580337488321594
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_274
+  - first:
+      213: -433829138051017163
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_275
+  - first:
+      213: 8253860249711281573
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_276
+  - first:
+      213: -2027501090496361613
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_277
+  - first:
+      213: 5315914119786129542
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_278
+  - first:
+      213: -1607238998551137906
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_279
+  - first:
+      213: 3420352408011290826
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_280
+  - first:
+      213: -2452557566409175995
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_281
+  - first:
+      213: 9119608197170788529
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_282
+  - first:
+      213: 8924284919809861530
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_283
+  - first:
+      213: -841429347544303497
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_284
+  - first:
+      213: -5017568678249976752
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_285
+  - first:
+      213: -4365218192374591461
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_286
+  - first:
+      213: 7110121864053761434
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_287
+  - first:
+      213: 5836114708078326554
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_288
+  - first:
+      213: 7612530144741537319
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_289
+  - first:
+      213: -5633568205386193708
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_290
+  - first:
+      213: -701221012240403241
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_291
+  - first:
+      213: 5435542800171610213
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_292
+  - first:
+      213: -5083998256715114090
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_293
+  - first:
+      213: 7119199215731478081
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_294
+  - first:
+      213: 5624529451447878497
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_295
+  - first:
+      213: -6254949875043958683
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_296
+  - first:
+      213: 5442123298183670150
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_297
+  - first:
+      213: 6016810632589999904
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_298
+  - first:
+      213: -7961594337363981490
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_299
+  - first:
+      213: 1456265890736351468
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_300
+  - first:
+      213: 7565585155231921237
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_301
+  - first:
+      213: -2951389638431694032
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_302
+  - first:
+      213: -2099441342591858392
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_303
+  - first:
+      213: -4330929798010903437
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_304
+  - first:
+      213: 5938538579618929230
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_305
+  - first:
+      213: 8872705815475129324
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_306
+  - first:
+      213: 9082337367043391571
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_307
+  - first:
+      213: 5968666281096214137
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_308
+  - first:
+      213: -4028107333977289062
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_309
+  - first:
+      213: -6990013001914443034
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_310
+  - first:
+      213: -6351606155680434730
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_311
+  - first:
+      213: -3973396301939914691
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_312
+  - first:
+      213: 699275311156519207
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_313
+  - first:
+      213: -6216852797123082763
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_314
+  - first:
+      213: 2488184222127086180
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_315
+  - first:
+      213: 1777636168109374630
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_316
+  - first:
+      213: 8692511194646743436
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_317
+  - first:
+      213: -6764498775475381180
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_318
+  - first:
+      213: 7534443770057082012
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_319
+  - first:
+      213: 8022435277891229702
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_320
+  - first:
+      213: -7132224593732620628
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_321
+  - first:
+      213: 16323702649947479
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_322
+  - first:
+      213: 6258346164647952353
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_323
+  - first:
+      213: -3861100247145129577
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_324
+  - first:
+      213: -5054129480090992399
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_325
+  - first:
+      213: 1045360010239681613
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_326
+  - first:
+      213: 3632009343773419868
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_327
+  - first:
+      213: 7699471836292218643
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_328
+  - first:
+      213: 523555602491724141
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_329
+  - first:
+      213: -6571892189271767105
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_330
+  - first:
+      213: -1488752077292357361
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_331
+  - first:
+      213: -3189829002011685907
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_332
+  - first:
+      213: 7577835721769995377
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_333
+  - first:
+      213: 7070380575519086967
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_334
+  - first:
+      213: -3492934345356927883
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_335
+  - first:
+      213: -1668192797742820607
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_336
+  - first:
+      213: 1111467243262995784
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_337
+  - first:
+      213: 4480942785285882653
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_338
+  - first:
+      213: 7413751188897132044
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_339
+  - first:
+      213: 298651374843303280
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_340
+  - first:
+      213: -9034578313942231099
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_341
+  - first:
+      213: 1848742276847878417
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_342
+  - first:
+      213: -7314701347034733198
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_343
+  - first:
+      213: 3897178383406058370
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_344
+  - first:
+      213: 415096471197470821
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_345
+  - first:
+      213: -5164480731766503781
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_346
+  - first:
+      213: 2923844716862440374
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_347
+  - first:
+      213: 9043399758625277908
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_348
+  - first:
+      213: 5773851435766630749
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_349
+  - first:
+      213: 5922868528741542530
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_350
+  - first:
+      213: 2309386215637331513
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_351
+  - first:
+      213: -1466195299029726949
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_352
+  - first:
+      213: 7552651749138732903
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_353
+  - first:
+      213: 4434820359365989832
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_354
+  - first:
+      213: 2837169475755901598
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_355
+  - first:
+      213: 4254225208850873742
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_356
+  - first:
+      213: 5638154098572628293
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_357
+  - first:
+      213: 698907945828749267
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_358
+  - first:
+      213: -932918870424872855
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_359
+  - first:
+      213: 4038364893379516951
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_360
+  - first:
+      213: -4821294417880517836
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_361
+  - first:
+      213: 5286797058081441866
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_362
+  - first:
+      213: 1302373632602204596
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_363
+  - first:
+      213: 1331839349103308437
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_364
+  - first:
+      213: 357536384691356060
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_365
+  - first:
+      213: -3619176738032664921
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_366
+  - first:
+      213: 6571260938701997839
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_367
+  - first:
+      213: -8501109150611218726
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_368
+  - first:
+      213: 3384100941029424802
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_369
+  - first:
+      213: -78275491381452665
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_370
+  - first:
+      213: 572654649378512236
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_371
+  - first:
+      213: -6449753433659918756
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_372
+  - first:
+      213: 1739447683983805735
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_373
+  - first:
+      213: 8179658097952489634
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_374
+  - first:
+      213: -2593212884141100994
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_375
+  - first:
+      213: 7445044234040895491
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_376
+  - first:
+      213: -369415775056279410
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_377
+  - first:
+      213: -8252605467881838412
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_378
+  - first:
+      213: -418562842242794231
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_379
+  - first:
+      213: -2674576252059384580
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_380
+  - first:
+      213: -7778342409905770123
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_381
+  - first:
+      213: 2720840287909136938
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_382
+  - first:
+      213: 1659027619264019418
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_383
+  - first:
+      213: 8693971923553839994
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_384
+  - first:
+      213: -8268936082041521784
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_385
+  - first:
+      213: 3863415108717159151
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_386
+  - first:
+      213: -1375869721593198216
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_387
+  - first:
+      213: -3644920118360628995
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_388
+  - first:
+      213: -2996615965999667838
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_389
+  - first:
+      213: 2203833558794751266
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_390
+  - first:
+      213: -1925812244807472037
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_391
+  - first:
+      213: -5327615251383344093
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_392
+  - first:
+      213: -4593854428810380744
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_393
+  - first:
+      213: 2138142442822277623
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_394
+  - first:
+      213: 8535135463628507125
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_395
+  - first:
+      213: 2019057245786178508
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_396
+  - first:
+      213: 9114980008948492329
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_397
+  - first:
+      213: -377335833674979461
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_398
+  - first:
+      213: 5497058496229042930
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_399
+  - first:
+      213: 2098680902257677685
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_400
+  - first:
+      213: -5078343461909088219
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_401
+  - first:
+      213: 3874334781562187076
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_402
+  - first:
+      213: -8637433971125297392
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_403
+  - first:
+      213: -3108508339573698925
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_404
+  - first:
+      213: 8265157764634425775
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_405
+  - first:
+      213: 7821407321392520978
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_406
+  - first:
+      213: 7826635876284520435
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_407
+  - first:
+      213: 1548520985281185857
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_408
+  - first:
+      213: -2863519680181939869
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_409
+  - first:
+      213: -7393132098630508988
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_410
+  - first:
+      213: 3686873532646409508
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_411
+  - first:
+      213: -6454537332072421632
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_412
+  - first:
+      213: 248010455137130509
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_413
+  - first:
+      213: -3974438159733307853
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_414
+  - first:
+      213: 1926857698045000597
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_415
+  - first:
+      213: 6049403768643895800
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_416
+  - first:
+      213: 7294950233096333619
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_417
+  - first:
+      213: 7784696803497097109
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_418
+  - first:
+      213: -7670082530710100136
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_419
+  - first:
+      213: -8708853077582720200
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_420
+  - first:
+      213: -4049430582024592413
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_421
+  - first:
+      213: -2170607616590742640
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_422
+  - first:
+      213: 862911074096539101
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_423
+  - first:
+      213: -4790260835202316953
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_424
+  - first:
+      213: 1881422012666136247
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_425
+  - first:
+      213: -1267219560402911315
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_426
+  - first:
+      213: 5951248764109212198
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_427
+  - first:
+      213: 3832208690242447574
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_428
+  - first:
+      213: -2841686790222783477
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_429
+  - first:
+      213: 1732027797252940716
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_430
+  - first:
+      213: 6883075677038837525
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_431
+  - first:
+      213: 8130791219105527337
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_432
+  - first:
+      213: -3899874927084058493
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_433
+  - first:
+      213: 128176946009503675
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_434
+  - first:
+      213: 8013334829788279975
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_435
+  - first:
+      213: 3519285188421301960
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_436
+  - first:
+      213: 2655859128204873182
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_437
+  - first:
+      213: -1477557461309229299
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_438
+  - first:
+      213: 1547240662703642772
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_439
+  - first:
+      213: -3367131427227296739
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_440
+  - first:
+      213: -7542179245698853662
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_441
+  - first:
+      213: 4418153362221514583
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_442
+  - first:
+      213: -6453817134071751343
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_443
+  - first:
+      213: -6227091047599371407
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_444
+  - first:
+      213: -8453872296514074393
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_445
+  - first:
+      213: -8819931895383910926
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_446
+  - first:
+      213: 834126658176618969
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_447
+  - first:
+      213: 4874135855227242752
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_448
+  - first:
+      213: -1132481694379067282
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_449
+  - first:
+      213: -1788269191149457150
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_450
+  - first:
+      213: -6974190319490978243
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_451
+  - first:
+      213: 6058627137344003626
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_452
+  - first:
+      213: 4613075758996579716
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_453
+  - first:
+      213: 8411056383536441534
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_454
+  - first:
+      213: 3323656958411691936
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_455
+  - first:
+      213: 1094303594820804018
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_456
+  - first:
+      213: -6172564477836964053
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_457
+  - first:
+      213: -7495769785291882192
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_458
+  - first:
+      213: -6527271458640820025
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_459
+  - first:
+      213: 5459241540130755178
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_460
+  - first:
+      213: -5262094871558551956
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_461
+  - first:
+      213: -4784660631133603765
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_462
+  - first:
+      213: -2269876882935101803
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_463
+  - first:
+      213: 2680478389488690663
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_464
+  - first:
+      213: 3462408294064948580
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_465
+  - first:
+      213: 8569363152365565665
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_466
+  - first:
+      213: -2571231488587481110
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_467
+  - first:
+      213: 3862121761748999222
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_468
+  - first:
+      213: -5006466490146545691
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_469
+  - first:
+      213: 6595530736976384639
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_470
+  - first:
+      213: 1589221467945532089
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_471
+  - first:
+      213: 8959978685516337191
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_472
+  - first:
+      213: 5241048161379137681
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_473
+  - first:
+      213: -7609684743052850910
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_474
+  - first:
+      213: -5959421576020983865
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_475
+  - first:
+      213: -2081357771071067
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_476
+  - first:
+      213: 7307970581219252208
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_477
+  - first:
+      213: 2343002020326442516
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_478
+  - first:
+      213: 9165721862157897757
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_479
+  - first:
+      213: -5085392330699201342
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_480
+  - first:
+      213: 2627934663857915615
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_481
+  - first:
+      213: -7480357853490797871
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_482
+  - first:
+      213: -9070330270164446695
+    second: dawgzyx-059c543d-d9b4-4320-9225-529f7dbb1eb8_483
+  - first:
+      213: -8964688998408078551
+    second: tilieset1_0
+  - first:
+      213: -1002736450685100043
+    second: tilieset1_1
+  - first:
+      213: -8791864468614401964
+    second: tilieset1_2
+  - first:
+      213: 3776877248326666308
+    second: tilieset1_3
+  - first:
+      213: -779468215021298399
+    second: tilieset1_4
+  - first:
+      213: -8703598920095916850
+    second: tilieset1_5
+  - first:
+      213: -1754660691520096092
+    second: tilieset1_6
+  - first:
+      213: -8139320561080469746
+    second: tilieset1_7
+  - first:
+      213: -4190593073561147780
+    second: tilieset1_8
+  - first:
+      213: -4773043619582851525
+    second: tilieset1_9
+  - first:
+      213: -6728336067500291251
+    second: tilieset1_10
+  - first:
+      213: 7156085393866882403
+    second: tilieset1_11
+  - first:
+      213: 8491597777494395167
+    second: tilieset1_12
+  - first:
+      213: 4252555016594501099
+    second: tilieset1_13
+  - first:
+      213: 155801448461241880
+    second: tilieset1_14
+  - first:
+      213: 5690491583817902873
+    second: tilieset1_15
+  - first:
+      213: 2136261498808457565
+    second: tilieset1_16
+  - first:
+      213: 1587128444506487295
+    second: tilieset1_17
+  - first:
+      213: -5246718335384617927
+    second: tilieset1_18
+  - first:
+      213: 6456010819357743859
+    second: tilieset1_19
+  - first:
+      213: -6639402653916926652
+    second: tilieset1_20
+  - first:
+      213: -2729278912779875090
+    second: tilieset1_21
+  - first:
+      213: -5351381764018536945
+    second: tilieset1_22
+  - first:
+      213: 1698431716646481367
+    second: tilieset1_23
+  - first:
+      213: -1410091699872413714
+    second: tilieset1_24
+  - first:
+      213: 1618433154865753915
+    second: tilieset1_25
+  - first:
+      213: -3248951603274161807
+    second: tilieset1_26
+  - first:
+      213: -1804003944828315607
+    second: tilieset1_27
+  - first:
+      213: 4160487067804188369
+    second: tilieset1_28
+  - first:
+      213: 9193315876287053567
+    second: tilieset1_29
+  - first:
+      213: -2082279175836744251
+    second: tilieset1_30
+  - first:
+      213: -217203311140393583
+    second: tilieset1_31
+  - first:
+      213: 1458496505504827284
+    second: tilieset1_32
+  - first:
+      213: 3318205891146553521
+    second: tilieset1_33
+  - first:
+      213: 7524628800854831743
+    second: tilieset1_34
+  - first:
+      213: 6554945819206834560
+    second: tilieset1_35
+  - first:
+      213: -4899058957652528154
+    second: tilieset1_36
+  - first:
+      213: 4915743094250746772
+    second: tilieset1_37
+  - first:
+      213: -694905475751183653
+    second: tilieset1_38
+  - first:
+      213: 8362954175128874423
+    second: tilieset1_39
+  - first:
+      213: 4158432101904502029
+    second: tilieset1_40
+  - first:
+      213: 520318409028117312
+    second: tilieset1_41
+  - first:
+      213: -23830640493115030
+    second: tilieset1_42
+  - first:
+      213: 178717589894767001
+    second: tilieset1_43
+  - first:
+      213: 3608522966500827872
+    second: tilieset1_44
+  - first:
+      213: 1571900539640580239
+    second: tilieset1_45
+  - first:
+      213: 530730293610563509
+    second: tilieset1_46
+  - first:
+      213: 5804438274567117874
+    second: tilieset1_47
+  - first:
+      213: -7316087425023690652
+    second: tilieset1_48
+  - first:
+      213: -6902495702355436916
+    second: tilieset1_49
+  - first:
+      213: -7209577549487475102
+    second: tilieset1_50
+  - first:
+      213: -3513676393230607777
+    second: tilieset1_51
+  - first:
+      213: -4914003296689720065
+    second: tilieset1_52
+  - first:
+      213: 7109519630973063931
+    second: tilieset1_53
+  - first:
+      213: 558695435138960006
+    second: tilieset1_54
+  - first:
+      213: -3830650876980645348
+    second: tilieset1_55
+  - first:
+      213: -1832517608324845765
+    second: tilieset1_56
+  - first:
+      213: -2276449218047033991
+    second: tilieset1_57
+  - first:
+      213: -8919133093989993499
+    second: tilieset1_58
+  - first:
+      213: 2738547401456718836
+    second: tilieset1_59
+  - first:
+      213: 1470595893294801455
+    second: tilieset1_60
+  - first:
+      213: 200452520777097308
+    second: tilieset1_61
+  - first:
+      213: 2703295744560827485
+    second: tilieset1_62
+  - first:
+      213: 7997813166194681033
+    second: tilieset1_63
+  - first:
+      213: -4244551396080071350
+    second: tilieset1_64
+  - first:
+      213: 7389214076662300782
+    second: tilieset1_65
+  - first:
+      213: -6083610599738520566
+    second: tilieset1_66
+  - first:
+      213: -5797651167812435082
+    second: tilieset1_67
+  - first:
+      213: 8929862560850084302
+    second: tilieset1_68
+  - first:
+      213: -4813809632057430142
+    second: tilieset1_69
+  - first:
+      213: 364619793524566015
+    second: tilieset1_70
+  - first:
+      213: -7980758048655526707
+    second: tilieset1_71
+  - first:
+      213: -6745686227038228094
+    second: tilieset1_72
+  - first:
+      213: 3434979503890644263
+    second: tilieset1_73
+  - first:
+      213: -3279860633361022536
+    second: tilieset1_74
+  - first:
+      213: -6284594436249484510
+    second: tilieset1_75
+  - first:
+      213: 1227654811106566201
+    second: tilieset1_76
+  - first:
+      213: -4776787548278281213
+    second: tilieset1_77
+  - first:
+      213: -6607050743146290731
+    second: tilieset1_78
+  - first:
+      213: -8389138494771207012
+    second: tilieset1_79
+  - first:
+      213: 1193970424739520186
+    second: tilieset1_80
+  - first:
+      213: -6776400104371204831
+    second: tilieset1_81
+  - first:
+      213: 2957107115017410971
+    second: tilieset1_82
+  - first:
+      213: -7317730645556241209
+    second: tilieset1_83
+  - first:
+      213: 447895559609633585
+    second: tilieset1_84
+  - first:
+      213: 5457375045702262197
+    second: tilieset1_85
+  - first:
+      213: -2920336266362494459
+    second: tilieset1_86
+  - first:
+      213: 9023238700891651798
+    second: tilieset1_87
+  - first:
+      213: 7218684834403473743
+    second: tilieset1_88
+  - first:
+      213: 8297066806762993414
+    second: tilieset1_89
+  - first:
+      213: 9003164615287091532
+    second: tilieset1_90
+  - first:
+      213: -2910018738440103058
+    second: tilieset1_91
+  - first:
+      213: 8715147260779264809
+    second: tilieset1_92
+  - first:
+      213: 3363528177861631978
+    second: tilieset1_93
+  - first:
+      213: 8396493984007017832
+    second: tilieset1_94
+  - first:
+      213: 4657368655808776963
+    second: tilieset1_95
+  - first:
+      213: 6903887316139554701
+    second: tilieset1_96
+  - first:
+      213: 4031554320330572910
+    second: tilieset1_97
+  - first:
+      213: -1515058938435603534
+    second: tilieset1_98
+  - first:
+      213: -5705191279043761436
+    second: tilieset1_99
+  - first:
+      213: -1708995342992593960
+    second: tilieset1_100
+  - first:
+      213: -944804471717256855
+    second: tilieset1_101
+  - first:
+      213: -6189483447975978753
+    second: tilieset1_102
+  - first:
+      213: -2703628412895000344
+    second: tilieset1_103
+  - first:
+      213: -5917173188805769961
+    second: tilieset1_104
+  - first:
+      213: -2753689154001133077
+    second: tilieset1_105
+  - first:
+      213: -5353042609943239367
+    second: tilieset1_106
+  - first:
+      213: 241759871547286580
+    second: tilieset1_107
+  - first:
+      213: -520986106076619616
+    second: tilieset1_108
+  - first:
+      213: -7276812514303257188
+    second: tilieset1_109
+  - first:
+      213: -66662961341536428
+    second: tilieset1_110
+  - first:
+      213: -4089868499750288008
+    second: tilieset1_111
+  - first:
+      213: 7739982282328071333
+    second: tilieset1_112
+  - first:
+      213: -5773913531851755859
+    second: tilieset1_113
+  - first:
+      213: -299128357911301146
+    second: tilieset1_114
+  - first:
+      213: -4969921928647799265
+    second: tilieset1_115
+  - first:
+      213: -3258524515606176619
+    second: tilieset1_116
+  - first:
+      213: 1678806970443651090
+    second: tilieset1_117
+  - first:
+      213: 2219281076426947016
+    second: tilieset1_118
+  - first:
+      213: -4173134430144210698
+    second: tilieset1_119
+  - first:
+      213: -8946078637906833917
+    second: tilieset1_120
+  - first:
+      213: -6149522361651297810
+    second: tilieset1_121
+  - first:
+      213: 4375419129798579948
+    second: tilieset1_122
+  - first:
+      213: 1237619760941654967
+    second: tilieset1_123
+  - first:
+      213: 9176355221380502849
+    second: tilieset1_124
+  - first:
+      213: -2499951275700710673
+    second: tilieset1_125
+  - first:
+      213: 8475206233148335319
+    second: tilieset1_126
+  - first:
+      213: -1816202535896946806
+    second: tilieset1_127
+  - first:
+      213: 7825914313892860543
+    second: tilieset1_128
+  - first:
+      213: 7069986810255895188
+    second: tilieset1_129
+  - first:
+      213: 5716846621300019135
+    second: tilieset1_130
+  - first:
+      213: -7968185568182406929
+    second: tilieset1_131
+  - first:
+      213: 2798266259401841555
+    second: tilieset1_132
+  - first:
+      213: -2097816814727961951
+    second: tilieset1_133
+  - first:
+      213: -3334229832243967903
+    second: tilieset1_134
+  - first:
+      213: 2196966183182485790
+    second: tilieset1_135
+  - first:
+      213: 4358649811249540028
+    second: tilieset1_136
+  - first:
+      213: -3733896073122152617
+    second: tilieset1_137
+  - first:
+      213: -8790959006209945201
+    second: tilieset1_138
+  - first:
+      213: 6203840221953623406
+    second: tilieset1_139
+  - first:
+      213: -4500405686320771999
+    second: tilieset1_140
+  - first:
+      213: -1928435398120333226
+    second: tilieset1_141
+  - first:
+      213: -7539110975536554239
+    second: tilieset1_142
+  - first:
+      213: 2459858078922872391
+    second: tilieset1_143
+  - first:
+      213: 196276881324279814
+    second: tilieset1_144
+  - first:
+      213: -8524610861080491951
+    second: tilieset1_145
+  - first:
+      213: 7135080156028422889
+    second: tilieset1_146
+  - first:
+      213: -7045495972496122029
+    second: tilieset1_147
+  - first:
+      213: -210116015385021082
+    second: tilieset1_148
+  - first:
+      213: 1132332146937558998
+    second: tilieset1_149
+  - first:
+      213: -3522091434941685187
+    second: tilieset1_150
+  - first:
+      213: -2983455974494902699
+    second: tilieset1_151
+  - first:
+      213: 2950927529858616952
+    second: tilieset1_152
+  - first:
+      213: -3750805320076549522
+    second: tilieset1_153
+  - first:
+      213: 9129829570749484852
+    second: tilieset1_154
+  - first:
+      213: -3103053269600364583
+    second: tilieset1_155
+  - first:
+      213: 3239410860731403725
+    second: tilieset1_156
+  - first:
+      213: 1299004969615291675
+    second: tilieset1_157
+  - first:
+      213: -1924858558959872752
+    second: tilieset1_158
+  - first:
+      213: -8473455349823560907
+    second: tilieset1_159
+  - first:
+      213: 9154162638558997516
+    second: tilieset1_160
+  - first:
+      213: 8929288314174060978
+    second: tilieset1_161
+  - first:
+      213: -3403826704962111939
+    second: tilieset1_162
+  - first:
+      213: 5865277297448205735
+    second: tilieset1_163
+  - first:
+      213: -2634267097728031412
+    second: tilieset1_164
+  - first:
+      213: -6421986838814459573
+    second: tilieset1_165
+  - first:
+      213: 2253112058823229742
+    second: tilieset1_166
+  - first:
+      213: -8973238332567310828
+    second: tilieset1_167
+  - first:
+      213: -8807308627198316501
+    second: tilieset1_168
+  - first:
+      213: 8090076894763644964
+    second: tilieset1_169
+  - first:
+      213: 4987463361129433316
+    second: tilieset1_170
+  - first:
+      213: -7966416122577705979
+    second: tilieset1_171
+  - first:
+      213: 1342853470542636967
+    second: tilieset1_172
+  - first:
+      213: 3992099560900504109
+    second: tilieset1_173
+  - first:
+      213: 3084850588565230776
+    second: tilieset1_174
+  - first:
+      213: -7986906163234704347
+    second: tilieset1_175
+  - first:
+      213: -5429918824823495977
+    second: tilieset1_176
+  - first:
+      213: 4263410149832488985
+    second: tilieset1_177
+  - first:
+      213: -2970429900664421262
+    second: tilieset1_178
+  - first:
+      213: -9136458587791116677
+    second: tilieset1_179
+  - first:
+      213: -6297692995517290924
+    second: tilieset1_180
+  - first:
+      213: -1947639787899197619
+    second: tilieset1_181
+  - first:
+      213: -4172799731609346157
+    second: tilieset1_182
+  - first:
+      213: -1228669976932846202
+    second: tilieset1_183
+  - first:
+      213: 4337421001728065414
+    second: tilieset1_184
+  - first:
+      213: -1821350169128210390
+    second: tilieset1_185
+  - first:
+      213: -268213790999056729
+    second: tilieset1_186
+  - first:
+      213: 7253229277051521951
+    second: tilieset1_187
+  - first:
+      213: 2133559709472616222
+    second: tilieset1_188
+  - first:
+      213: -7959869368112814065
+    second: tilieset1_189
+  - first:
+      213: 817861491013881040
+    second: tilieset1_190
+  - first:
+      213: 7852738887066365413
+    second: tilieset1_191
+  - first:
+      213: -5202931733627911556
+    second: tilieset1_192
+  - first:
+      213: 4155001838684003113
+    second: tilieset1_193
+  - first:
+      213: -1170314076377617480
+    second: tilieset1_194
+  - first:
+      213: 1338437595103621396
+    second: tilieset1_195
+  - first:
+      213: -8439381980376356976
+    second: tilieset1_196
+  - first:
+      213: -2241430500221753025
+    second: tilieset1_197
+  - first:
+      213: -2279250664780506764
+    second: tilieset1_198
+  - first:
+      213: 6864858221301294556
+    second: tilieset1_199
+  - first:
+      213: 8433896263511168470
+    second: tilieset1_200
+  - first:
+      213: -7733312514434176688
+    second: tilieset1_201
+  - first:
+      213: -2604710593403780054
+    second: tilieset1_202
+  - first:
+      213: 7457631299131907436
+    second: tilieset1_203
+  - first:
+      213: -8276604366114370138
+    second: tilieset1_204
+  - first:
+      213: 3255160489312766292
+    second: tilieset1_205
+  - first:
+      213: -4762541070526983461
+    second: tilieset1_206
+  - first:
+      213: 3298735917091503879
+    second: tilieset1_207
+  - first:
+      213: -7210068881550459337
+    second: tilieset1_208
+  - first:
+      213: -1505755446017344120
+    second: tilieset1_209
+  - first:
+      213: -7886043229157534101
+    second: tilieset1_210
+  - first:
+      213: 3073262702855631908
+    second: tilieset1_211
+  - first:
+      213: 2359080955429763120
+    second: tilieset1_212
+  - first:
+      213: -2654737317477673326
+    second: tilieset1_213
+  - first:
+      213: 6621858494960027337
+    second: tilieset1_214
+  - first:
+      213: 7128483949363317513
+    second: tilieset1_215
+  - first:
+      213: -411689839608255516
+    second: tilieset1_216
+  - first:
+      213: 7646004146922290259
+    second: tilieset1_217
+  - first:
+      213: 4809534593884271424
+    second: tilieset1_218
+  - first:
+      213: -3705494771650315066
+    second: tilieset1_219
+  - first:
+      213: 6158523920735948351
+    second: tilieset1_220
+  - first:
+      213: -6574023504012745007
+    second: tilieset1_221
+  - first:
+      213: 3195070385915072675
+    second: tilieset1_222
+  - first:
+      213: -3467038431339165610
+    second: tilieset1_223
+  - first:
+      213: -1213893427925610715
+    second: tilieset1_224
+  - first:
+      213: -3193056058277829000
+    second: tilieset1_225
+  - first:
+      213: 2511662392869576222
+    second: tilieset1_226
+  - first:
+      213: -7457699448529166743
+    second: tilieset1_227
+  - first:
+      213: 5604037319750015031
+    second: tilieset1_228
+  - first:
+      213: 2188054312384118916
+    second: tilieset1_229
+  - first:
+      213: -6542942821657481493
+    second: tilieset1_230
+  - first:
+      213: -4081306337743767915
+    second: tilieset1_231
+  - first:
+      213: 3376388088603950009
+    second: tilieset1_232
+  - first:
+      213: 8712900890592332700
+    second: tilieset1_233
+  - first:
+      213: 561993900893089458
+    second: tilieset1_234
+  - first:
+      213: 4198388140625587032
+    second: tilieset1_235
+  - first:
+      213: -2992945317150617774
+    second: tilieset1_236
+  - first:
+      213: -3623451135931316897
+    second: tilieset1_237
+  - first:
+      213: -4149709024118595615
+    second: tilieset1_238
+  - first:
+      213: 1427987530111687069
+    second: tilieset1_239
+  - first:
+      213: -4927530974473686395
+    second: tilieset1_240
+  - first:
+      213: -6382807920420633654
+    second: tilieset1_241
+  - first:
+      213: -7678338086010264067
+    second: tilieset1_242
+  - first:
+      213: -4961594072261127067
+    second: tilieset1_243
+  - first:
+      213: -8727624338663353382
+    second: tilieset1_244
+  - first:
+      213: 2459600007163896921
+    second: tilieset1_245
+  - first:
+      213: 2948726860254351842
+    second: tilieset1_246
+  - first:
+      213: 4401062308678792721
+    second: tilieset1_247
+  - first:
+      213: -3216530394064919613
+    second: tilieset1_248
+  - first:
+      213: -3113827675759531764
+    second: tilieset1_249
+  - first:
+      213: 5318184323069580723
+    second: tilieset1_250
+  - first:
+      213: 2092402620507425313
+    second: tilieset1_251
+  - first:
+      213: -5010216558159530800
+    second: tilieset1_252
+  - first:
+      213: 8813500344213906551
+    second: tilieset1_253
+  - first:
+      213: -1569848293818519561
+    second: tilieset1_254
+  - first:
+      213: 7755073841597838372
+    second: tilieset1_255
+  - first:
+      213: -1403370413474560064
+    second: tilieset1_256
+  - first:
+      213: -2955556471178539341
+    second: tilieset1_257
+  - first:
+      213: -1510863858311370954
+    second: tilieset1_258
+  - first:
+      213: -5937345485584155164
+    second: tilieset1_259
+  - first:
+      213: 645566846573173926
+    second: tilieset1_260
+  - first:
+      213: 4191935831635450737
+    second: tilieset1_261
+  - first:
+      213: -3837275187759547888
+    second: tilieset1_262
+  - first:
+      213: 6465901997605825176
+    second: tilieset1_263
+  - first:
+      213: 8660486960585127666
+    second: tilieset1_264
+  - first:
+      213: -7224275830932880890
+    second: tilieset1_265
+  - first:
+      213: 7417473985427561015
+    second: tilieset1_266
+  - first:
+      213: 3120020679851565470
+    second: tilieset1_267
+  - first:
+      213: -3481691557895550328
+    second: tilieset1_268
+  - first:
+      213: 5933897121715902879
+    second: tilieset1_269
+  - first:
+      213: -1498349298559107699
+    second: tilieset1_270
+  - first:
+      213: -2090267943086230294
+    second: tilieset1_271
+  - first:
+      213: -7959504815647541205
+    second: tilieset1_272
+  - first:
+      213: -6004287266399782844
+    second: tilieset1_273
+  - first:
+      213: 6182872913103621939
+    second: tilieset1_274
+  - first:
+      213: 4197913455675910553
+    second: tilieset1_275
+  - first:
+      213: -4267325346581691357
+    second: tilieset1_276
+  - first:
+      213: -4752353577888664912
+    second: tilieset1_277
+  - first:
+      213: 8852452071940709948
+    second: tilieset1_278
+  - first:
+      213: -6913690469594771703
+    second: tilieset1_279
+  - first:
+      213: -3070920934734178453
+    second: tilieset1_280
+  - first:
+      213: 3558946355512184338
+    second: tilieset1_281
+  - first:
+      213: -5852568934855592604
+    second: tilieset1_282
+  - first:
+      213: -4255770589165221470
+    second: tilieset1_283
+  - first:
+      213: 1805047281669973826
+    second: tilieset1_284
+  - first:
+      213: -2543851116245737046
+    second: tilieset1_285
+  - first:
+      213: -8229731886774686963
+    second: tilieset1_286
+  - first:
+      213: -5522349799270700765
+    second: tilieset1_287
+  - first:
+      213: 522329895612498288
+    second: tilieset1_288
+  - first:
+      213: -4199664787712005028
+    second: tilieset1_289
+  - first:
+      213: -183616757719673279
+    second: tilieset1_290
+  - first:
+      213: 7305680663837254334
+    second: tilieset1_291
+  - first:
+      213: 2640135363644760692
+    second: tilieset1_292
+  - first:
+      213: -1191234575890448547
+    second: tilieset1_293
+  - first:
+      213: -3998438361316025736
+    second: tilieset1_294
+  - first:
+      213: 6615157206189133674
+    second: tilieset1_295
+  - first:
+      213: 2592666535032682665
+    second: tilieset1_296
+  - first:
+      213: 7826748476614000949
+    second: tilieset1_297
+  - first:
+      213: -8422934631551156790
+    second: tilieset1_298
+  - first:
+      213: 1346242130841481369
+    second: tilieset1_299
+  - first:
+      213: -2854907320827022586
+    second: tilieset1_300
+  - first:
+      213: -5086475464557734562
+    second: tilieset1_301
+  - first:
+      213: 8585257518912379962
+    second: tilieset1_302
+  - first:
+      213: -4585171314106936649
+    second: tilieset1_303
+  - first:
+      213: -3760435569547182012
+    second: tilieset1_304
+  - first:
+      213: 4868613128085822087
+    second: tilieset1_305
+  - first:
+      213: -7252592829718278048
+    second: tilieset1_306
+  - first:
+      213: 5340535197338804648
+    second: tilieset1_307
+  - first:
+      213: 3351530172635278141
+    second: tilieset1_308
+  - first:
+      213: -7701785413009790925
+    second: tilieset1_309
+  - first:
+      213: -7361410642569232571
+    second: tilieset1_310
+  - first:
+      213: -2659171771578970888
+    second: tilieset1_311
+  - first:
+      213: 454928895927885264
+    second: tilieset1_312
+  - first:
+      213: -4052597007540716711
+    second: tilieset1_313
+  - first:
+      213: 2580796630311959056
+    second: tilieset1_314
+  - first:
+      213: 8568313872442959380
+    second: tilieset1_315
+  - first:
+      213: 6023891338853040625
+    second: tilieset1_316
+  - first:
+      213: -2595980523029458988
+    second: tilieset1_317
+  - first:
+      213: 8109551431452699391
+    second: tilieset1_318
+  - first:
+      213: -9117673952726534036
+    second: tilieset1_319
+  - first:
+      213: -4950790655606393769
+    second: tilieset1_320
+  - first:
+      213: -2721193469691202135
+    second: tilieset1_321
+  - first:
+      213: -1980084457539571767
+    second: tilieset1_322
+  - first:
+      213: 8010581465856754669
+    second: tilieset1_323
+  - first:
+      213: 6492895614513189216
+    second: tilieset1_324
+  - first:
+      213: 1853146892228518784
+    second: tilieset1_325
+  - first:
+      213: 5202366878478290859
+    second: tilieset1_326
+  - first:
+      213: 1619855122596437653
+    second: tilieset1_327
+  - first:
+      213: 9169307407991602712
+    second: tilieset1_328
+  - first:
+      213: -117536987774637491
+    second: tilieset1_329
+  - first:
+      213: 6952993889577456799
+    second: tilieset1_330
+  - first:
+      213: -245863998195355923
+    second: tilieset1_331
+  - first:
+      213: -4437687834362744935
+    second: tilieset1_332
+  - first:
+      213: 1943997829477720535
+    second: tilieset1_333
+  - first:
+      213: 3129667435305588444
+    second: tilieset1_334
+  - first:
+      213: 8075922588515316233
+    second: tilieset1_335
+  - first:
+      213: -7679600407206717051
+    second: tilieset1_336
+  - first:
+      213: 1722257707801120774
+    second: tilieset1_337
+  - first:
+      213: 4276751042505790957
+    second: tilieset1_338
+  - first:
+      213: 4323406667593047207
+    second: tilieset1_339
+  - first:
+      213: -8300946998894653040
+    second: tilieset1_340
+  - first:
+      213: 5424905568415098106
+    second: tilieset1_341
+  - first:
+      213: 4180302394886429123
+    second: tilieset1_342
+  - first:
+      213: 7687404253818154855
+    second: tilieset1_343
+  - first:
+      213: 2041183392064367028
+    second: tilieset1_344
+  - first:
+      213: -4072386765852296097
+    second: tilieset1_345
+  - first:
+      213: 2297964084637043994
+    second: tilieset1_346
+  - first:
+      213: 3386386064073683027
+    second: tilieset1_347
+  - first:
+      213: -6511404013590922847
+    second: tilieset1_348
+  - first:
+      213: -5300384951990203975
+    second: tilieset1_349
+  - first:
+      213: -3007838982274319145
+    second: tilieset1_350
+  - first:
+      213: 6690678273237945670
+    second: tilieset1_351
+  - first:
+      213: 1289404222398611604
+    second: tilieset1_352
+  - first:
+      213: 670906752651709501
+    second: tilieset1_353
+  - first:
+      213: -7928979167975970619
+    second: tilieset1_354
+  - first:
+      213: -7866105450934870984
+    second: tilieset1_355
+  - first:
+      213: 2698992395224640084
+    second: tilieset1_356
+  - first:
+      213: -204155400034225526
+    second: tilieset1_357
+  - first:
+      213: 1899768788470391181
+    second: tilieset1_358
+  - first:
+      213: -8363700513413208389
+    second: tilieset1_359
+  - first:
+      213: -9155623283203141966
+    second: tilieset1_360
+  - first:
+      213: 6219547823541301042
+    second: tilieset1_361
+  - first:
+      213: -2712096760239957646
+    second: tilieset1_362
+  - first:
+      213: -7421806844614554321
+    second: tilieset1_363
+  - first:
+      213: -7930553689204008712
+    second: tilieset1_364
+  - first:
+      213: 6747720625867047265
+    second: tilieset1_365
+  - first:
+      213: 449351311096704920
+    second: tilieset1_366
+  - first:
+      213: 2087608692490147336
+    second: tilieset1_367
+  - first:
+      213: -4901402098321126714
+    second: tilieset1_368
+  - first:
+      213: 3346647354218330533
+    second: tilieset1_369
+  - first:
+      213: -8354546993214301627
+    second: tilieset1_370
+  - first:
+      213: -1474263886594221631
+    second: tilieset1_371
+  - first:
+      213: -2760638287886093845
+    second: tilieset1_372
+  - first:
+      213: -2667546055565253065
+    second: tilieset1_373
+  - first:
+      213: 8088897397228803091
+    second: tilieset1_374
+  - first:
+      213: 4461463112044659597
+    second: tilieset1_375
+  - first:
+      213: -5575512698073720365
+    second: tilieset1_376
+  - first:
+      213: -2708516687213126491
+    second: tilieset1_377
+  - first:
+      213: -7392483096174404228
+    second: tilieset1_378
+  - first:
+      213: 2411461236217431892
+    second: tilieset1_379
+  - first:
+      213: 2990315283004775647
+    second: tilieset1_380
+  - first:
+      213: 7224807060232580932
+    second: tilieset1_381
+  - first:
+      213: 1127347528204203396
+    second: tilieset1_382
+  - first:
+      213: -745011517371652491
+    second: tilieset1_383
+  - first:
+      213: 2655717684909157983
+    second: tilieset1_384
+  - first:
+      213: -6259029616676742865
+    second: tilieset1_385
+  - first:
+      213: 1913345567999737607
+    second: tilieset1_386
+  - first:
+      213: 414292013864910284
+    second: tilieset1_387
+  - first:
+      213: 3497405865077144227
+    second: tilieset1_388
+  - first:
+      213: -3430426135466926874
+    second: tilieset1_389
+  - first:
+      213: -1400321884756839636
+    second: tilieset1_390
+  - first:
+      213: -5600201990573467714
+    second: tilieset1_391
+  - first:
+      213: 1299121215693918220
+    second: tilieset1_392
+  - first:
+      213: -4031563195847412792
+    second: tilieset1_393
+  - first:
+      213: -2723192248510167400
+    second: tilieset1_394
+  - first:
+      213: 7782088445553840870
+    second: tilieset1_395
+  - first:
+      213: -9002851512461275054
+    second: tilieset1_396
+  - first:
+      213: -5653536592383757522
+    second: tilieset1_397
+  - first:
+      213: 4837097424223646292
+    second: tilieset1_398
+  - first:
+      213: 1261280044884594827
+    second: tilieset1_399
+  - first:
+      213: -3301627513599849227
+    second: tilieset1_400
+  - first:
+      213: 1651644371952478930
+    second: tilieset1_401
+  - first:
+      213: 5394108590523608075
+    second: tilieset1_402
+  - first:
+      213: 9038064199632951261
+    second: tilieset1_403
+  - first:
+      213: 4340012363538735317
+    second: tilieset1_404
+  - first:
+      213: -9059281709902127317
+    second: tilieset1_405
+  - first:
+      213: -7699651478865164574
+    second: tilieset1_406
+  - first:
+      213: -4147744225791093282
+    second: tilieset1_407
+  - first:
+      213: -8012760301307770977
+    second: tilieset1_408
+  - first:
+      213: 3899818817849913831
+    second: tilieset1_409
+  - first:
+      213: 6959848906377627677
+    second: tilieset1_410
+  - first:
+      213: 7969476804886050438
+    second: tilieset1_411
+  - first:
+      213: 7692120968258492488
+    second: tilieset1_412
+  - first:
+      213: 5536950384803661657
+    second: tilieset1_413
+  - first:
+      213: 6833107941918953129
+    second: tilieset1_414
+  - first:
+      213: 5992031053983696739
+    second: tilieset1_415
+  - first:
+      213: -7653118714423389135
+    second: tilieset1_416
+  - first:
+      213: -8801857443442988348
+    second: tilieset1_417
+  - first:
+      213: -5607967898013381906
+    second: tilieset1_418
+  - first:
+      213: -6670816480825261225
+    second: tilieset1_419
+  - first:
+      213: 6436885385636968830
+    second: tilieset1_420
+  - first:
+      213: 6557901887406698023
+    second: tilieset1_421
+  - first:
+      213: -5198120258708563189
+    second: tilieset1_422
+  - first:
+      213: -5510132983407236063
+    second: tilieset1_423
+  - first:
+      213: -999096204272022889
+    second: tilieset1_424
+  - first:
+      213: 1567860989842901410
+    second: tilieset1_425
+  - first:
+      213: -4922540501890671318
+    second: tilieset1_426
+  - first:
+      213: 2090825358310811499
+    second: tilieset1_427
+  - first:
+      213: 1838809150399046538
+    second: tilieset1_428
+  - first:
+      213: 8148136050179822746
+    second: tilieset1_429
+  - first:
+      213: -307496749185082469
+    second: tilieset1_430
+  - first:
+      213: 8427746159039450276
+    second: tilieset1_431
+  - first:
+      213: 1527000673454840778
+    second: tilieset1_432
+  - first:
+      213: 4035752152249062505
+    second: tilieset1_433
+  - first:
+      213: 2225841215895736
+    second: tilieset1_434
+  - first:
+      213: 1445896677528744097
+    second: tilieset1_435
+  - first:
+      213: 5438884307003650625
+    second: tilieset1_436
+  - first:
+      213: 7812606126148681334
+    second: tilieset1_437
+  - first:
+      213: -2591077726956755133
+    second: tilieset1_438
+  - first:
+      213: -6577432620417282861
+    second: tilieset1_439
+  - first:
+      213: -2199712350394390155
+    second: tilieset1_440
+  - first:
+      213: -8439711627687044593
+    second: tilieset1_441
+  - first:
+      213: -1241694230915771310
+    second: tilieset1_442
+  - first:
+      213: -6240999586017883450
+    second: tilieset1_443
+  - first:
+      213: 5162745503084127853
+    second: tilieset1_444
+  - first:
+      213: -3784787079901679204
+    second: tilieset1_445
+  - first:
+      213: -2416406393390804600
+    second: tilieset1_446
+  - first:
+      213: -1180828546969156506
+    second: tilieset1_447
+  - first:
+      213: -86953716814685699
+    second: tilieset1_448
+  - first:
+      213: 9146971379721844774
+    second: tilieset1_449
+  - first:
+      213: -218116828308889739
+    second: tilieset1_450
+  - first:
+      213: 4810657119444505088
+    second: tilieset1_451
+  - first:
+      213: -347667307960195786
+    second: tilieset1_452
+  - first:
+      213: 5544877534516933926
+    second: tilieset1_453
+  - first:
+      213: -5059313574013743571
+    second: tilieset1_454
+  - first:
+      213: -6955315360837984152
+    second: tilieset1_455
+  - first:
+      213: -7896553833960003927
+    second: tilieset1_456
+  - first:
+      213: -1376916413866590636
+    second: tilieset1_457
+  - first:
+      213: 4107919243765339261
+    second: tilieset1_458
+  - first:
+      213: 7126599695463040788
+    second: tilieset1_459
+  - first:
+      213: -5859629741703084910
+    second: tilieset1_460
+  - first:
+      213: 4409154916201690702
+    second: tilieset1_461
+  - first:
+      213: -6627786219972930033
+    second: tilieset1_462
+  - first:
+      213: -9078475131722270623
+    second: tilieset1_463
+  - first:
+      213: 4506263590394355648
+    second: tilieset1_464
+  - first:
+      213: 5987960561050814537
+    second: tilieset1_465
+  - first:
+      213: -1336914725367227443
+    second: tilieset1_466
+  - first:
+      213: 1061667169886559503
+    second: tilieset1_467
+  - first:
+      213: -6899106200206255914
+    second: tilieset1_468
+  - first:
+      213: 8039311792266103965
+    second: tilieset1_469
+  - first:
+      213: 486492438809274593
+    second: tilieset1_470
+  - first:
+      213: 4884619718174615216
+    second: tilieset1_471
+  - first:
+      213: 910657716879403142
+    second: tilieset1_472
+  - first:
+      213: -9193199694201296768
+    second: tilieset1_473
+  - first:
+      213: -5722010440848997432
+    second: tilieset1_474
+  - first:
+      213: -416793279943044644
+    second: tilieset1_475
+  - first:
+      213: 4102175212180733260
+    second: tilieset1_476
+  - first:
+      213: 3825011608995028759
+    second: tilieset1_477
+  - first:
+      213: -3020808417904216233
+    second: tilieset1_478
+  - first:
+      213: -1600250054012314910
+    second: tilieset1_479
+  - first:
+      213: 1337668042116836100
+    second: tilieset1_480
+  - first:
+      213: 8780408143574923062
+    second: tilieset1_481
+  - first:
+      213: 1302184305119099510
+    second: tilieset1_482
+  - first:
+      213: 99659845088186286
+    second: tilieset1_483
+  - first:
+      213: 5275292597067326605
+    second: tilieset1_484
+  - first:
+      213: -1210287637208790783
+    second: tilieset1_485
+  - first:
+      213: -4992025679838783553
+    second: tilieset1_486
+  - first:
+      213: -4938250181351784773
+    second: tilieset1_487
+  - first:
+      213: -8363491197590789157
+    second: tilieset1_488
+  - first:
+      213: 4770119563567485400
+    second: tilieset1_489
+  - first:
+      213: -5218329628260099406
+    second: tilieset1_490
+  - first:
+      213: 5350457869528495913
+    second: tilieset1_491
+  - first:
+      213: -9204471175345317140
+    second: tilieset1_492
+  - first:
+      213: -1665923221822372007
+    second: tilieset1_493
+  - first:
+      213: -8872261195485532906
+    second: tilieset1_494
+  - first:
+      213: -6685828714092009847
+    second: tilieset1_495
+  - first:
+      213: -580394348343422872
+    second: tilieset1_496
+  - first:
+      213: -6109241973388055523
+    second: tilieset1_497
+  - first:
+      213: 5082259626603538090
+    second: tilieset1_498
+  - first:
+      213: 8846807228934226457
+    second: tilieset1_499
+  - first:
+      213: -1273170159867412430
+    second: tilieset1_500
+  - first:
+      213: 5305915562863480588
+    second: tilieset1_501
+  - first:
+      213: 7345673634764043657
+    second: tilieset1_502
+  - first:
+      213: -4346314181591797145
+    second: tilieset1_503
+  - first:
+      213: -6045822538162875681
+    second: tilieset1_504
+  - first:
+      213: 2516863076444949598
+    second: tilieset1_505
+  - first:
+      213: 8866310227817611077
+    second: tilieset1_506
+  - first:
+      213: 6234620606858262985
+    second: tilieset1_507
+  - first:
+      213: 1198795723399807891
+    second: tilieset1_508
+  - first:
+      213: 2987191152145213294
+    second: tilieset1_509
+  - first:
+      213: -1719239390704131036
+    second: tilieset1_510
+  - first:
+      213: -2574393803586392555
+    second: tilieset1_511
+  - first:
+      213: 8956935292833607647
+    second: tilieset1_512
+  - first:
+      213: -4910787797401711520
+    second: tilieset1_513
+  - first:
+      213: 1040818293002295770
+    second: tilieset1_514
+  - first:
+      213: -6283084617542149986
+    second: tilieset1_515
+  - first:
+      213: -372433954441795448
+    second: tilieset1_516
+  - first:
+      213: -4475462767704964830
+    second: tilieset1_517
+  - first:
+      213: -6132771857048915942
+    second: tilieset1_518
+  - first:
+      213: -5809454639825045130
+    second: tilieset1_519
+  - first:
+      213: -767718290740944281
+    second: tilieset1_520
+  - first:
+      213: -4277920633909024549
+    second: tilieset1_521
+  - first:
+      213: -5814179501907407275
+    second: tilieset1_522
+  - first:
+      213: -4709069564434403197
+    second: tilieset1_523
+  - first:
+      213: 256050868527775640
+    second: tilieset1_524
+  - first:
+      213: -3326851483830894207
+    second: tilieset1_525
+  - first:
+      213: 5810376658385137982
+    second: tilieset1_526
+  - first:
+      213: -8094025157716204820
+    second: tilieset1_527
+  - first:
+      213: -1765177335273049511
+    second: tilieset1_528
+  - first:
+      213: 645075488396650383
+    second: tilieset1_0
+  - first:
+      213: 3121232235818247739
+    second: tilieset1_1
+  - first:
+      213: 5110263032164284374
+    second: tilieset1_2
+  - first:
+      213: 6424103303544924995
+    second: tilieset1_3
+  - first:
+      213: 236766776725752707
+    second: tilieset1_4
+  - first:
+      213: -1896274476096023428
+    second: tilieset1_5
+  - first:
+      213: -1074301712502792032
+    second: tilieset1_6
+  - first:
+      213: 1761549948430286547
+    second: tilieset1_7
+  - first:
+      213: -3132767500688569813
+    second: tilieset1_8
+  - first:
+      213: -4062726207416882962
+    second: tilieset1_9
+  - first:
+      213: 796696470807258578
+    second: tilieset1_10
+  - first:
+      213: 2125223569808489662
+    second: tilieset1_11
+  - first:
+      213: -6252378101511252039
+    second: tilieset1_12
+  - first:
+      213: -1398579692697597697
+    second: tilieset1_13
+  - first:
+      213: -6408078698008919517
+    second: tilieset1_14
+  - first:
+      213: -5500731819806921585
+    second: tilieset1_15
+  - first:
+      213: 1200965152762653295
+    second: tilieset1_16
+  - first:
+      213: 5827885912640540954
+    second: tilieset1_17
+  - first:
+      213: 7830120039484907384
+    second: tilieset1_18
+  - first:
+      213: -1432573745164490383
+    second: tilieset1_19
+  - first:
+      213: -5429082786437659104
+    second: tilieset1_20
+  - first:
+      213: 2480920617933735227
+    second: tilieset1_21
+  - first:
+      213: 43368697978951981
+    second: tilieset1_22
+  - first:
+      213: -7063672777041076119
+    second: tilieset1_23
+  - first:
+      213: -4001033744267703409
+    second: tilieset1_24
+  - first:
+      213: -8995917683975260790
+    second: tilieset1_25
+  - first:
+      213: -7628797474911010541
+    second: tilieset1_26
+  - first:
+      213: 8336179442945656332
+    second: tilieset1_27
+  - first:
+      213: 1297386880497863883
+    second: tilieset1_28
+  - first:
+      213: -2003728236994259687
+    second: tilieset1_29
+  - first:
+      213: 7573534479966674108
+    second: tilieset1_30
+  - first:
+      213: -6645745762028819075
+    second: tilieset1_31
+  - first:
+      213: 6038192603076389117
+    second: tilieset1_32
+  - first:
+      213: 7634622302152996519
+    second: tilieset1_33
+  - first:
+      213: 8482167140996286940
+    second: tilieset1_34
+  - first:
+      213: -6196200246514218803
+    second: tilieset1_35
+  - first:
+      213: 6432968084653561833
+    second: tilieset1_36
+  - first:
+      213: -4108990391962649573
+    second: tilieset1_37
+  - first:
+      213: 7691064443332615843
+    second: tilieset1_38
+  - first:
+      213: 7786686790139711925
+    second: tilieset1_39
+  - first:
+      213: 7121054538517880611
+    second: tilieset1_40
+  - first:
+      213: -5059680315650472205
+    second: tilieset1_41
+  - first:
+      213: 4552211816968797382
+    second: tilieset1_42
+  - first:
+      213: 6618995498781100460
+    second: tilieset1_43
+  - first:
+      213: 1754606634665404642
+    second: tilieset1_44
+  - first:
+      213: 8191016219846239810
+    second: tilieset1_45
+  - first:
+      213: -27097093090060297
+    second: tilieset1_46
+  - first:
+      213: -714507086245609587
+    second: tilieset1_47
+  - first:
+      213: 8804829854662181282
+    second: tilieset1_48
+  - first:
+      213: -4066706066733746178
+    second: tilieset1_49
+  - first:
+      213: -3393217551631561408
+    second: tilieset1_50
+  - first:
+      213: 1457929608468800943
+    second: tilieset1_51
+  - first:
+      213: 4108825686016085499
+    second: tilieset1_52
+  - first:
+      213: 309413354960427478
+    second: tilieset1_53
+  - first:
+      213: -1958956989656067740
+    second: tilieset1_54
+  - first:
+      213: 4799748696782988886
+    second: tilieset1_55
+  - first:
+      213: 566055568152741728
+    second: tilieset1_56
+  - first:
+      213: 8260990242365525910
+    second: tilieset1_57
+  - first:
+      213: -3692108518495065330
+    second: tilieset1_58
+  - first:
+      213: 2585366535535325692
+    second: tilieset1_59
+  - first:
+      213: -7347808856651898898
+    second: tilieset1_60
+  - first:
+      213: 1508173362056507576
+    second: tilieset1_61
+  - first:
+      213: -843631692400419020
+    second: tilieset1_62
+  - first:
+      213: 8312460089546817521
+    second: tilieset1_63
+  - first:
+      213: 8914505144022684418
+    second: tilieset1_64
+  - first:
+      213: 2617511436817840454
+    second: tilieset1_65
+  - first:
+      213: -5153070616196114030
+    second: tilieset1_66
+  - first:
+      213: 1096604550446725515
+    second: tilieset1_67
+  - first:
+      213: -6806289782489874131
+    second: tilieset1_68
+  - first:
+      213: -8935768010810775314
+    second: tilieset1_69
+  - first:
+      213: 5567221097101746408
+    second: tilieset1_70
+  - first:
+      213: -5636142803299804441
+    second: tilieset1_71
+  - first:
+      213: -1311095418303762649
+    second: tilieset1_72
+  - first:
+      213: 8289841854670261236
+    second: tilieset1_73
+  - first:
+      213: 6620104829028278601
+    second: tilieset1_74
+  - first:
+      213: 799014137939124730
+    second: tilieset1_75
+  - first:
+      213: -250185845743365173
+    second: tilieset1_76
+  - first:
+      213: 7484058092024636550
+    second: tilieset1_77
+  - first:
+      213: 5389357188033516399
+    second: tilieset1_78
+  - first:
+      213: 3778519694454929292
+    second: tilieset1_79
+  - first:
+      213: -7538471308830605557
+    second: tilieset1_80
+  - first:
+      213: 9139645271792421929
+    second: tilieset1_81
+  - first:
+      213: 221028240684575972
+    second: tilieset1_82
+  - first:
+      213: 3632812690108605490
+    second: tilieset1_83
+  - first:
+      213: 2410588779750387234
+    second: tilieset1_84
+  - first:
+      213: 1387931473599290076
+    second: tilieset1_85
+  - first:
+      213: -2357706940262005762
+    second: tilieset1_86
+  - first:
+      213: -6248435815759478104
+    second: tilieset1_87
+  - first:
+      213: -8686018851669999524
+    second: tilieset1_88
+  - first:
+      213: 2626379455037482320
+    second: tilieset1_89
+  - first:
+      213: 83500645101341716
+    second: tilieset1_90
+  - first:
+      213: -6223850057157901389
+    second: tilieset1_91
+  - first:
+      213: 4126695398151651788
+    second: tilieset1_92
+  - first:
+      213: 1792033067218012217
+    second: tilieset1_93
+  - first:
+      213: -78693034874026579
+    second: tilieset1_94
+  - first:
+      213: -6241611078927966136
+    second: tilieset1_95
+  - first:
+      213: 1095294438661433874
+    second: tilieset1_96
+  - first:
+      213: 1457656262771114362
+    second: tilieset1_97
+  - first:
+      213: 6889149439629723135
+    second: tilieset1_98
+  - first:
+      213: 8285697154437637874
+    second: tilieset1_99
+  - first:
+      213: 1166742394109843245
+    second: tilieset1_100
+  - first:
+      213: -4889924668611905245
+    second: tilieset1_101
+  - first:
+      213: 2186968807060111084
+    second: tilieset1_102
+  - first:
+      213: 6481750541155122534
+    second: tilieset1_103
+  - first:
+      213: -47452452449146783
+    second: tilieset1_104
+  - first:
+      213: -6367261807192773773
+    second: tilieset1_105
+  - first:
+      213: 81616170341761196
+    second: tilieset1_106
+  - first:
+      213: -2299585701735916676
+    second: tilieset1_107
+  - first:
+      213: -325554818948737769
+    second: tilieset1_108
+  - first:
+      213: -8429474531857331084
+    second: tilieset1_109
+  - first:
+      213: -1133664850728295264
+    second: tilieset1_110
+  - first:
+      213: 1106161543107262397
+    second: tilieset1_111
+  - first:
+      213: -7480442669152882652
+    second: tilieset1_112
+  - first:
+      213: 4533119677552653247
+    second: tilieset1_113
+  - first:
+      213: 1925784440851658218
+    second: tilieset1_114
+  - first:
+      213: 4858938252032596129
+    second: tilieset1_115
+  - first:
+      213: -7319645617625237774
+    second: tilieset1_116
+  - first:
+      213: 1531524365543679294
+    second: tilieset1_117
+  - first:
+      213: -7852887391247934479
+    second: tilieset1_118
+  - first:
+      213: -4756458974082847732
+    second: tilieset1_119
+  - first:
+      213: 6721829290163252513
+    second: tilieset1_120
+  - first:
+      213: 3315717399496005868
+    second: tilieset1_121
+  - first:
+      213: -3429422116298851743
+    second: tilieset1_122
+  - first:
+      213: -4160866940902345567
+    second: tilieset1_123
+  - first:
+      213: -216078632099622198
+    second: tilieset1_124
+  - first:
+      213: 5706920329461057563
+    second: tilieset1_125
+  - first:
+      213: -1570256443251421322
+    second: tilieset1_126
+  - first:
+      213: 4944986711158665127
+    second: tilieset1_127
+  - first:
+      213: -2164162886555209029
+    second: tilieset1_128
+  - first:
+      213: -5232237817887487701
+    second: tilieset1_129
+  - first:
+      213: -7572062464928091456
+    second: tilieset1_130
+  - first:
+      213: -2220695076520762868
+    second: tilieset1_131
+  - first:
+      213: 3571050740627654124
+    second: tilieset1_132
+  - first:
+      213: -7599354641256954667
+    second: tilieset1_133
+  - first:
+      213: 3439503630854959079
+    second: tilieset1_134
+  - first:
+      213: -3580602463092812853
+    second: tilieset1_135
+  - first:
+      213: 2920354916610948853
+    second: tilieset1_136
+  - first:
+      213: -2470092498057457505
+    second: tilieset1_137
+  - first:
+      213: 5668480533883524122
+    second: tilieset1_138
+  - first:
+      213: -5027891870617514220
+    second: tilieset1_139
+  - first:
+      213: 478055593110332174
+    second: tilieset1_140
+  - first:
+      213: 6501275544400708474
+    second: tilieset1_141
+  - first:
+      213: -1305181842588177679
+    second: tilieset1_142
+  - first:
+      213: 1566204508065725499
+    second: tilieset1_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 95
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilieset1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87a13b2db4c3f800800000000000000
+      internalID: -8964688998408078551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36e1757e28d05b20800000000000000
+      internalID: -1002736450685100043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d776f4072d4be640800000000000000
+      internalID: -8791864468614401964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b65301beff62950800000000000000
+      internalID: 3776877248326666308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b4a55012a294300800000000000000
+      internalID: -779468215021298399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7418af29641fa5e0800000000000000
+      internalID: -8703598920095916850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a06dacc8405711f0800000000000000
+      internalID: -1754660691520096092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de7b425858427810800000000000000
+      internalID: -8139320561080469746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ac1956e8c2684d0800000000000000
+      internalID: -4190593073561147780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee82f332a0c4e97c0800000000000000
+      internalID: -4773043619582851525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d52648183f6e0b00800000000000000
+      internalID: -6728336067500291251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_11
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 671
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcf8baa39f4e7d10800000000000000
+      internalID: 7156085393866882403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b79df14e371b39a0800000000000000
+      internalID: 8491597777494395167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff84fa2fd2f379ce0800000000000000
+      internalID: 4252555016594501099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3224e68206ee117a0800000000000000
+      internalID: 155801448461241880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c68b3dd8979a3b0800000000000000
+      internalID: 5690491583817902873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a6a06817faaa010800000000000000
+      internalID: 2136261498808457565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11517e2c5fc0e050800000000000000
+      internalID: 1587128444506487295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_18
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f5a2ea0bc2aac60800000000000000
+      internalID: -5246718335384617927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1796be4d4c97e1ce0800000000000000
+      internalID: 6456010819357743859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_20
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026023268f508a4b0800000000000000
+      internalID: -6639402653916926652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3502e358200e6220800000000000000
+      internalID: -2729278912779875090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_22
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29186dd9931a9000800000000000000
+      internalID: -5351381764018536945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_23
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 610
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960aed2c80bc8fd90800000000000000
+      internalID: 1698431716646481367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b829a02097978c0800000000000000
+      internalID: -1410091699872413714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85fff16784182380800000000000000
+      internalID: 1618433154865753915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311488c9d11112690800000000000000
+      internalID: -3248951603274161807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0680b0590f00b370800000000000000
+      internalID: -1804003944828315607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccc3547e7e310210800000000000000
+      internalID: 4160487067804188369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915998fd8c35134e0800000000000000
+      internalID: 9193315876287053567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc1694bb799a1960800000000000000
+      internalID: -2082279175836744251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_31
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7de6baa07195c3a0800000000000000
+      internalID: -217203311140393583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df862c74e28fbc350800000000000000
+      internalID: 1458496505504827284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_33
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6ba1aa880a3f960800000000000000
+      internalID: 3318205891146553521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_34
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd903940316b6b570800000000000000
+      internalID: 7524628800854831743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_35
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 549
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8055564bca20aa0800000000000000
+      internalID: 6554945819206834560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e75331c36e764950800000000000000
+      internalID: -4899058957652528154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cb295420fe9f6c0800000000000000
+      internalID: 4915743094250746772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_38
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae5a79bc562cba60800000000000000
+      internalID: -694905475751183653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b11187416edf0c60800000000000000
+      internalID: 8362954175128874423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_40
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f9a82bf5113d260800000000000000
+      internalID: 4158432101904502029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_41
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f60e9c6f8768c9b0800000000000000
+      internalID: 520318409028117312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_42
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb2c46784bc2f30800000000000000
+      internalID: -23830640493115030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_43
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9c1c256556bdb50800000000000000
+      internalID: 178717589894767001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e866cb107d995810800000000000000
+      internalID: 3608522966500827872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_45
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246e565aad55ca170800000000000000
+      internalID: 1571900539640580239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_46
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7dbef565bbf9ff0800000000000000
+      internalID: 530730293610563509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_47
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 488
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fb4d6379f8516f0800000000000000
+      internalID: 5804438274567117874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1c4e25a1a013a70800000000000000
+      internalID: -7316087425023690652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7b86ee0682097c0800000000000000
+      internalID: -6902495702355436916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_50
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d41656d9ed8e0d0800000000000000
+      internalID: -7209577549487475102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_51
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5ae44214b9b3410800000000000000
+      internalID: -3513676393230607777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_52
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd4df2213b750930800000000000000
+      internalID: -4914003296689720065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_53
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99d279ec14b4400800000000000000
+      internalID: 7109519630973063931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46118453ff260d4e0800000000000000
+      internalID: 558695435138960006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_55
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656e4e272022c9240800000000000000
+      internalID: -3830650876980645348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_56
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06740e64a880bd700800000000000000
+      internalID: -1832517608324845765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_57
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f4a295bdee4a270800000000000000
+      internalID: -2276449218047033991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_58
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b68e23ddef2ccc0800000000000000
+      internalID: -8919133093989993499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_59
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 427
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f3cc8a2111e320800000000000000
+      internalID: 2738547401456718836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef5bc576c6570a90800000000000000
+      internalID: 1470595893294801455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0b511aeab1ee410800000000000000
+      internalID: 200452520777097308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f163d0271da44f0800000000000000
+      internalID: 2703295744560827485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_63
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffbc0ff86acb5370800000000000000
+      internalID: 7997813166194681033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_64
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035dd9823fa6bb70800000000000000
+      internalID: -4244551396080071350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649bc0b98c4435420800000000000000
+      internalID: 7389214076662300782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_66
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999023a39d9c78b0800000000000000
+      internalID: -6083610599738520566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_67
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b893470570ce73f00800000000000000
+      internalID: -5797651167812435082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_68
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21025c01833b81a0800000000000000
+      internalID: 8929862560850084302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_69
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee823508656cdf380800000000000000
+      internalID: -4813809632057430142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_70
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e06fc6671eb24d40800000000000000
+      internalID: 364619793524566015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_71
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 366
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ead0f16bf568c1b0800000000000000
+      internalID: -7980758048655526707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fac5dd9ad0ecde0800000000000000
+      internalID: -6745686227038228094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb49cfce3f6b0370800000000000000
+      internalID: 3434979503890644263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_74
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941241664465fdb50800000000000000
+      internalID: -3279860633361022536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_75
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af16066002ba61b00800000000000000
+      internalID: -6284594436249484510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_76
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d2a08c49278cf0800000000000000
+      internalID: 1227654811106566201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_77
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6842485be27bcd760800000000000000
+      internalID: -4776787548278281213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_78
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f639f68fec7daca40800000000000000
+      internalID: -6607050743146290731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_79
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87bdc484afff6430800000000000000
+      internalID: -8389138494771207012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_80
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f7daff848f16790800000000000000
+      internalID: 1193970424739520186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_81
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c044663fa86de70800000000000000
+      internalID: -6776400104371204831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_82
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec655b8300411300800000000000000
+      internalID: 2957107115017410971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_83
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 305
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2346479e4e75a6230800000000000000
+      internalID: -7317730645556241209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e609c29b1247120800000000000000
+      internalID: 447895559609633585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_85
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda5878525ce24310800000000000000
+      internalID: 5457375045702262197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_86
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c53d870eb74fd0800000000000000
+      internalID: -2920336266362494459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_87
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a204df2bb81949a0800000000000000
+      internalID: 9023238700891651798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_88
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c500dd9ffdf057780800000000000000
+      internalID: 7218684834403473743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_89
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a4eef236c27420800000000000000
+      internalID: 8297066806762993414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_90
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c08c1f467a82100800000000000000
+      internalID: 9003164615287091532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_91
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b30fcf295170a9a0800000000000000
+      internalID: -2910018738440103058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_92
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc18117b997f44930800000000000000
+      internalID: 8715147260779264809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_93
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938884d74949ed810800000000000000
+      internalID: 3363528177861631978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_94
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5490a0a1d68eef0800000000000000
+      internalID: 8396493984007017832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_95
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 244
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8402b5e0bc75169a0800000000000000
+      internalID: 4657368655808776963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a20e42d74433f00800000000000000
+      internalID: 6903887316139554701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_97
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a718813e5a2aa3410800000000000000
+      internalID: 4031554320330572910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_98
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff506b14aec2b9f50800000000000000
+      internalID: -1515058938435603534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_99
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f668b699a5bcf270800000000000000
+      internalID: -5705191279043761436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_100
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d275e49960a113010800000000000000
+      internalID: -1708995342992593960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_101
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329b7fcfb6f732cb0800000000000000
+      internalID: -944804471717256855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_102
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee7daffa8ca95e10800000000000000
+      internalID: -6189483447975978753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_103
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d3f3086cdc3f950800000000000000
+      internalID: -2703628412895000344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_104
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1682c04fe3a675ff0800000000000000
+      internalID: -5917173188805769961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_105
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bec5e1f11f2a7a0800000000000000
+      internalID: -2753689154001133077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_106
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca006297975f12100800000000000000
+      internalID: -5353042609943239367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_107
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 183
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b967decfa3610e0800000000000000
+      internalID: 241759871547286580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715d4a5fd956b7bf0800000000000000
+      internalID: -520986106076619616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_109
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c0175139d740b80800000000000000
+      internalID: -7276812514303257188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_110
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a46efd13d96440f0800000000000000
+      internalID: -66662961341536428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_111
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db73b111010e95f00800000000000000
+      internalID: -4089868499750288008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_112
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420b7768601203890800000000000000
+      internalID: 7739982282328071333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_113
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3fbd84450e8ee30800000000000000
+      internalID: -5773913531851755859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_114
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5ffe6eeb2c9ba10800000000000000
+      internalID: -299128357911301146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_115
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8d5f1b89a6e6340800000000000000
+      internalID: -4969921928647799265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_116
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6f3b787156b6a90800000000000000
+      internalID: -3258524515606176619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_117
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35261dcb41114510800000000000000
+      internalID: 1678806970443651090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_118
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbd5872680f40390800000000000000
+      internalID: 2219281076426947016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_119
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 122
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ca21d83c9adfdb0800000000000000
+      internalID: -4173134430144210698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d2ff8202cb84d50800000000000000
+      internalID: -8946078637906833917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_121
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89a8c486bc30e20800000000000000
+      internalID: -6149522361651297810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_122
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a732d41ce3860d0800000000000000
+      internalID: 4375419129798579948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_123
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a479ddff81a146c0800000000000000
+      internalID: 1237619760941654967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_124
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2562201a5500df0800000000000000
+      internalID: 9176355221380502849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_125
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b184bf69dcd033f40800000000000000
+      internalID: -2499951275700710673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_126
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f0bbd9514553ae0800000000000000
+      internalID: 8475206233148335319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_127
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa3a1d63f10a440800000000000000
+      internalID: -1816202535896946806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_128
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2fac6225957f1e0800000000000000
+      internalID: 7825914313892860543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_129
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29837c1d6b5367b0800000000000000
+      internalID: 7069986810255895188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_130
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c274e08e41aae690800000000000000
+      internalID: 5716846621300019135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_131
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 61
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c026589f7918e21e0800000000000000
+      internalID: -7968185568182406929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5c1067abbee8130800000000000000
+      internalID: 2798266259401841555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_133
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4c9a5873ba98690800000000000000
+      internalID: -2097816814727961951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_134
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efa6c834529bbf20800000000000000
+      internalID: -3334229832243967903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_135
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d679d7052f4ec0800000000000000
+      internalID: 2196966183182485790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_136
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe39aee25f278820800000000000000
+      internalID: 4358649811249540028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_137
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f909deac5f778bdd0800000000000000
+      internalID: -3733896073122152617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_138
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14185e330d7aae40800000000000000
+      internalID: -8790959006209945201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_139
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fc4ca8bf6593ab0800000000000000
+      internalID: 6203840221953623406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_140
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ea32770562a600800000000000000
+      internalID: -4500405686320771999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_141
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7340f299ab293a50800000000000000
+      internalID: -1928435398120333226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_142
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faed31870013ede0800000000000000
+      internalID: -7539110975536554239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilieset1_143
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7fd4b3b64cb510800000000000000
+      internalID: 2459858078922872391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tilieset1_112: 7739982282328071333
+      tilieset1_3: 3776877248326666308
+      tilieset1_24: -1410091699872413714
+      tilieset1_131: -7968185568182406929
+      tilieset1_17: 1587128444506487295
+      tilieset1_89: 8297066806762993414
+      tilieset1_30: -2082279175836744251
+      tilieset1_74: -3279860633361022536
+      tilieset1_62: 2703295744560827485
+      tilieset1_4: -779468215021298399
+      tilieset1_81: -6776400104371204831
+      tilieset1_129: 7069986810255895188
+      tilieset1_35: 6554945819206834560
+      tilieset1_116: -3258524515606176619
+      tilieset1_60: 1470595893294801455
+      tilieset1_124: 9176355221380502849
+      tilieset1_70: 364619793524566015
+      tilieset1_55: -3830650876980645348
+      tilieset1_0: -8964688998408078551
+      tilieset1_91: -2910018738440103058
+      tilieset1_73: 3434979503890644263
+      tilieset1_83: -7317730645556241209
+      tilieset1_61: 200452520777097308
+      tilieset1_43: 178717589894767001
+      tilieset1_102: -6189483447975978753
+      tilieset1_1: -1002736450685100043
+      tilieset1_10: -6728336067500291251
+      tilieset1_42: -23830640493115030
+      tilieset1_39: 8362954175128874423
+      tilieset1_122: 4375419129798579948
+      tilieset1_106: -5353042609943239367
+      tilieset1_48: -7316087425023690652
+      tilieset1_34: 7524628800854831743
+      tilieset1_79: -8389138494771207012
+      tilieset1_5: -8703598920095916850
+      tilieset1_101: -944804471717256855
+      tilieset1_107: 241759871547286580
+      tilieset1_114: -299128357911301146
+      tilieset1_71: -7980758048655526707
+      tilieset1_86: -2920336266362494459
+      tilieset1_68: 8929862560850084302
+      tilieset1_12: 8491597777494395167
+      tilieset1_111: -4089868499750288008
+      tilieset1_143: 2459858078922872391
+      tilieset1_51: -3513676393230607777
+      tilieset1_13: 4252555016594501099
+      tilieset1_49: -6902495702355436916
+      tilieset1_84: 447895559609633585
+      tilieset1_95: 4657368655808776963
+      tilieset1_118: 2219281076426947016
+      tilieset1_47: 5804438274567117874
+      tilieset1_72: -6745686227038228094
+      tilieset1_99: -5705191279043761436
+      tilieset1_8: -4190593073561147780
+      tilieset1_33: 3318205891146553521
+      tilieset1_138: -8790959006209945201
+      tilieset1_14: 155801448461241880
+      tilieset1_40: 4158432101904502029
+      tilieset1_18: -5246718335384617927
+      tilieset1_113: -5773913531851755859
+      tilieset1_92: 8715147260779264809
+      tilieset1_66: -6083610599738520566
+      tilieset1_15: 5690491583817902873
+      tilieset1_134: -3334229832243967903
+      tilieset1_6: -1754660691520096092
+      tilieset1_45: 1571900539640580239
+      tilieset1_65: 7389214076662300782
+      tilieset1_76: 1227654811106566201
+      tilieset1_36: -4899058957652528154
+      tilieset1_26: -3248951603274161807
+      tilieset1_23: 1698431716646481367
+      tilieset1_52: -4914003296689720065
+      tilieset1_67: -5797651167812435082
+      tilieset1_142: -7539110975536554239
+      tilieset1_57: -2276449218047033991
+      tilieset1_97: 4031554320330572910
+      tilieset1_126: 8475206233148335319
+      tilieset1_103: -2703628412895000344
+      tilieset1_7: -8139320561080469746
+      tilieset1_53: 7109519630973063931
+      tilieset1_110: -66662961341536428
+      tilieset1_117: 1678806970443651090
+      tilieset1_25: 1618433154865753915
+      tilieset1_87: 9023238700891651798
+      tilieset1_64: -4244551396080071350
+      tilieset1_27: -1804003944828315607
+      tilieset1_100: -1708995342992593960
+      tilieset1_38: -694905475751183653
+      tilieset1_56: -1832517608324845765
+      tilieset1_120: -8946078637906833917
+      tilieset1_9: -4773043619582851525
+      tilieset1_11: 7156085393866882403
+      tilieset1_121: -6149522361651297810
+      tilieset1_132: 2798266259401841555
+      tilieset1_90: 9003164615287091532
+      tilieset1_41: 520318409028117312
+      tilieset1_32: 1458496505504827284
+      tilieset1_127: -1816202535896946806
+      tilieset1_46: 530730293610563509
+      tilieset1_22: -5351381764018536945
+      tilieset1_115: -4969921928647799265
+      tilieset1_108: -520986106076619616
+      tilieset1_96: 6903887316139554701
+      tilieset1_85: 5457375045702262197
+      tilieset1_137: -3733896073122152617
+      tilieset1_69: -4813809632057430142
+      tilieset1_94: 8396493984007017832
+      tilieset1_139: 6203840221953623406
+      tilieset1_88: 7218684834403473743
+      tilieset1_2: -8791864468614401964
+      tilieset1_123: 1237619760941654967
+      tilieset1_136: 4358649811249540028
+      tilieset1_59: 2738547401456718836
+      tilieset1_135: 2196966183182485790
+      tilieset1_141: -1928435398120333226
+      tilieset1_37: 4915743094250746772
+      tilieset1_133: -2097816814727961951
+      tilieset1_44: 3608522966500827872
+      tilieset1_50: -7209577549487475102
+      tilieset1_58: -8919133093989993499
+      tilieset1_54: 558695435138960006
+      tilieset1_109: -7276812514303257188
+      tilieset1_16: 2136261498808457565
+      tilieset1_19: 6456010819357743859
+      tilieset1_82: 2957107115017410971
+      tilieset1_75: -6284594436249484510
+      tilieset1_119: -4173134430144210698
+      tilieset1_78: -6607050743146290731
+      tilieset1_29: 9193315876287053567
+      tilieset1_140: -4500405686320771999
+      tilieset1_31: -217203311140393583
+      tilieset1_21: -2729278912779875090
+      tilieset1_98: -1515058938435603534
+      tilieset1_28: 4160487067804188369
+      tilieset1_63: 7997813166194681033
+      tilieset1_93: 3363528177861631978
+      tilieset1_104: -5917173188805769961
+      tilieset1_20: -6639402653916926652
+      tilieset1_128: 7825914313892860543
+      tilieset1_130: 5716846621300019135
+      tilieset1_105: -2753689154001133077
+      tilieset1_80: 1193970424739520186
+      tilieset1_125: -2499951275700710673
+      tilieset1_77: -4776787548278281213
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

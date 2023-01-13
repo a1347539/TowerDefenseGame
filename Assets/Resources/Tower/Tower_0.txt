@@ -1,0 +1,19 @@
+{
+	"towerName":"Archer Tower",
+
+	"towerId":0,
+
+	"price":70,
+	"sell_price":40,
+	"upgrade_price":300,
+
+	"damage":3,
+	"range":4,
+	"atk_speed":2,
+	"effect":0,
+
+	"damageIncrement":0.02,
+	"rangeIncrement":0.007,
+	"AtkSpeedIncrement":0.025,
+	"effectIncrement":0
+}

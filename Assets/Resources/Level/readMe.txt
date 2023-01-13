@@ -1,0 +1,1 @@
+min matrix 30width and 18height
